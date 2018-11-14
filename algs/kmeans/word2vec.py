@@ -9,6 +9,7 @@ import unicodedata
 import re
 
 start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
+embedding = KeyedVectors.load_word2vec_format('~/Documents/Huge/skip_s50.txt')
 
 def normalizer(y):
     table = str.maketrans('','',string.punctuation)
@@ -25,10 +26,18 @@ def read(file):
     df['feature_vector'] = df['groname'] + ' ' + df['proname']
     return df
 
+def phrase2vec(ph):
+        vec = None
+        for word in ph:
+                vec = embedding[word] if not vec else vec + model[word]
+        return vec
+
 documents = read('../bases/lilprobase.csv')
 
-vectorizer = TfidfVectorizer(stop_words='english')
-X = vectorizer.fit_transform(documents['feature_vector'].tolist())
+# vectorizer = TfidfVectorizer(stop_words='english')
+# X = vectorizer.fit_transform(documents['feature_vector'].tolist())
+X = list(map(lambda x: phrase2vec(x), documents['feature_vector'].tolist()))
+print(X)
 
 true_k = 100
 model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
