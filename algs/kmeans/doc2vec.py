@@ -1,10 +1,8 @@
-from sklearn.datasets.samples_generator import make_blobs
-from sklearn.cluster import AffinityPropagation
-import matplotlib.pyplot as plt
-from itertools import cycle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
+from gensim.models.doc2vec import Doc2Vec
+from nltk.tokenize import word_tokenize
 import numpy as np
 import pandas as pd
 import string
@@ -12,6 +10,7 @@ import unicodedata
 import re
 
 start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
+embbed = Doc2Vec.load("d2v.model")
 
 def normalizer(y):
     table = str.maketrans('','',string.punctuation)
@@ -20,6 +19,8 @@ def normalizer(y):
 def number_removal(y):
     return start_number.sub('', y)
 
+def phrase2vec(p):
+    return embbed.infer_vector(number_removal(normalizer(p)))
 
 def read(file):
     df = pd.read_csv(file)
@@ -31,26 +32,24 @@ def read(file):
 
 documents = read('../bases/lilprobase.csv')
 
-vectorizer = TfidfVectorizer(stop_words='english')
-X = vectorizer.fit_transform(documents['feature_vector'].tolist())
+X = list(map(lambda x: embbed.infer_vector(x), documents['feature_vector'].tolist()))
+# vectorizer = TfidfVectorizer(stop_words='english')
+# X = vectorizer.fit_transform(documents['feature_vector'].tolist())
 
-af = AffinityPropagation().fit(X)
-cluster_centers_indices = af.cluster_centers_indices_
-labels = af.labels_
+true_k = 100
+model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
+model.fit(X)
 
-print ('Clusters %d' % len(cluster_centers_indices))
-print("\n")
-documents["clusters"] = labels
+documents['cluster'] = model.labels_
 
 print("Prediction")
 
-Y = vectorizer.transform(["fanta maracujá"])
-prediction = af.predict(Y)
-print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["clusters"] == prediction[0]])
+Y = [phrase2vec("fanta maracujá")]
+prediction = model.predict(Y)
+print(documents[documents['cluster'] == prediction[0]])
 
+print("\n")
 
-Y = vectorizer.transform(["pizza de beringela"])
-prediction = af.predict(Y)
-print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["clusters"] == prediction[0]])
+Y = [phrase2vec("pizza de beringela")]
+prediction = model.predict(Y)
+print(documents[documents['cluster'] == prediction[0]])
