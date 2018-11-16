@@ -27,7 +27,7 @@ def read(file):
     df['id'] = df.index
     df['proname'] = df['proname'].apply(normalizer).apply(number_removal)
     df['groname'] = df['groname'].apply(normalizer).apply(number_removal)
-    df['feature_vector'] = df['groname'] + ' ' + df['proname']
+    df['feature_vector'] = df['groname'].apply(normalizer).apply(number_removal) + ' ' + df['proname'].apply(normalizer).apply(number_removal)
     return df
 
 documents = read('../bases/lilprobase.csv')
@@ -43,9 +43,6 @@ print ('Clusters %d' % len(cluster_centers_indices))
 print("\n")
 
 documents["group"] = labels
-print("Groups:")
-print(documents.sort_values('group'))
-
 file = open('knowledgebase.cpp_part','w')
 
 cur = {'group': -1, 'groupPieceName': [], 'clusterName': '',
