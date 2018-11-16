@@ -5,6 +5,7 @@ from itertools import cycle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
+from nltk.corpus import stopwords 
 import numpy as np
 import pandas as pd
 import string
@@ -31,7 +32,7 @@ def read(file):
 
 documents = read('../bases/lilprobase.csv')
 
-vectorizer = TfidfVectorizer(stop_words='english')
+vectorizer = TfidfVectorizer(stop_words=stopwords.words('portuguese'))
 X = vectorizer.fit_transform(documents['feature_vector'].tolist())
 
 af = AffinityPropagation().fit(X)
@@ -40,17 +41,53 @@ labels = af.labels_
 
 print ('Clusters %d' % len(cluster_centers_indices))
 print("\n")
-documents["clusters"] = labels
+
+documents["group"] = labels
+print("Groups:")
+print(documents.sort_values('group'))
+
+file = open('knowledgebase.cpp_part','w')
+
+cur = {'group': -1, 'groupPieceName': [], 'clusterName': '',
+       'tagName': '', 'productPieceName': []}
+for i, doc in documents.sort_values('group').T.iteritems():
+    if doc['group'] != cur['group']:
+        file.write(
+            '''
+            absClusters.emplace_back("{groupNames}",
+                                     "{groupName}",
+                                     "{tagName}");
+            absClusters.back().bulkFeed({{
+                {productNames}
+            }});
+            '''.format(
+                    groupNames=' '.join(set(cur['groupPieceName'])), 
+                    groupName=cur['clusterName'],
+                    tagName=cur['tagName'],
+                    productNames=',\n\t\t'.join( set(list(map(lambda x: '"{x}"'.format(x=x), cur['productPieceName']))) )
+                )
+        )
+
+        cur['group'] = doc['group']
+        cur['groupPieceName'] = [doc['groname']]
+        cur['productPieceName'] = [doc['proname']]
+        cur['clusterName'] = doc['groname']
+        cur['tagName'] = doc['groname']
+    else:
+        cur['groupPieceName'] += [doc['groname']]
+        cur['productPieceName'] += [doc['proname']]
+
+file.close()
 
 print("Prediction")
 
 Y = vectorizer.transform(["fanta maracujá"])
 prediction = af.predict(Y)
 print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["clusters"] == prediction[0]])
+print(documents[documents["group"] == prediction[0]])
 
 
 Y = vectorizer.transform(["pizza de beringela"])
 prediction = af.predict(Y)
 print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["clusters"] == prediction[0]])
+print(documents[documents["group"] == prediction[0]])

@@ -1,0 +1,2118 @@
+
+            absClusters.emplace_back("",
+                                     "",
+                                     "");
+            absClusters.back().bulkFeed({
+                
+            });
+            
+            absClusters.emplace_back("individual  salgadinhos fritos 80g",
+                                     "individual  salgadinhos fritos 80g",
+                                     "individual  salgadinhos fritos 80g");
+            absClusters.back().bulkFeed({
+                "calabreza com catupiry 80g",
+		"kibe frito 20g 25 unidades",
+		"kibe frito 10g 50 unidades",
+		"risole de carne 80g",
+		"kibe frito 10g 100 unidades",
+		"kibe frito 80g",
+		"kibe frito 20g 100 unidades",
+		"coxinha de frango 80g"
+            });
+            
+            absClusters.emplace_back("viva mexico promocao combos promocionais combos",
+                                     "promocao",
+                                     "promocao");
+            absClusters.back().bulkFeed({
+                "merenda fit",
+		"combo familia",
+		"combo familia  refrigerante em lata",
+		"familia mexicana",
+		"merenda para 2",
+		"merenda familia"
+            });
+            
+            absClusters.emplace_back("filet mingnon",
+                                     "filet mingnon",
+                                     "filet mingnon");
+            absClusters.back().bulkFeed({
+                "file mignon ao barbecue 400g de proteina 2 pessoas",
+		"file mignon grelhado 200g de proteina 1 pessoa",
+		"file mingnon a parmegiana 400g de proteina 3 pessoas",
+		"file mignon ao barbecue 600g de proteina 3 pessoas copia",
+		"escalopinhos de file mignon ao molho madeira 600g de proteina 3 pessoas",
+		"file mingnon a parmegiana 250g de proteina 2 pessoas",
+		"file mignon grelhado 600g de proteina 3 pessoas copia",
+		"escalopinhos de file mignon ao molho madeira 200g de proteina 1 pessoa",
+		"file mignon a delicia 600g de proteina 3 pessoas",
+		"file mignon a delicia 400g de proteina 2 pessoas",
+		"estrogonoff de file mignon 200g de proteina 1 pessoa",
+		"estrogonoff de file mignon 400g de proteina 2 pessoas",
+		"estrogonoff de file mignon 450g de proteina 3 pessoas",
+		"file mingnon a parmegiana 200g de proteina 1 pessoa",
+		"escalopinhos de file mignon ao molho madeira 400g de proteina 2 pessoas",
+		"file mignon grelhado 400g de proteina 2 pessoas",
+		"file mignon ao molho madeira 200g de proteina 1 pessoa",
+		"yakissoba de file mingnom",
+		"file mignon ao molho madeira 400g de proteina 2 pessoas",
+		"file mignon a delicia 200g de proteina 1 pessoa",
+		"file mingnom a moda oriental",
+		"file mignon ao barbecue 200g de proteina 1 pessoa",
+		"file mignon ao molho madeira 600g de proteina 3 pessoas"
+            });
+            
+            absClusters.emplace_back("bebidas",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "suco de goiaba 1l",
+		"suco verde detox",
+		"suco detox esmeralda",
+		"suco natural  cupuacu 1l",
+		"suco de tapereba",
+		"suco de manga",
+		"caipirinha  1l",
+		"suco detox rubi",
+		"suco de acerola 1l",
+		"suco de abacaxi",
+		"suco de cupuacu 1l",
+		"suco de tapereba 1l",
+		"suco natural  maracuja 1l",
+		"suco de laranja",
+		"suco de cupuacu",
+		"fantalaranja 1l",
+		"suco de detox",
+		"suco de maracuja 1l",
+		"suco del vale uva",
+		"suco de maracuja",
+		"suco detox diamante",
+		"suco detox topazio",
+		"suco natural  cupuacu 500 ml ",
+		"suco natural  maracuja 500 ml  ",
+		"suco de morango"
+            });
+            
+            absClusters.emplace_back("churrasco misto no balde salada caesar churrasco de frango no balde feijoada no balde churrasco de carne de sol no balde strogonoff de alcatra no balde",
+                                     "feijoada no balde",
+                                     "feijoada no balde");
+            absClusters.back().bulkFeed({
+                "balde duplo 2 pessoas 1 litro",
+		"balde duplo 2 pessoas",
+		"balde familia ate 5 pessoas 18 litros ",
+		"balde grande familia ate 10 pessoas 36 litros",
+		"balde familia 4 a 5 pessoas",
+		"balde grande familia 8 a 10 pessoas",
+		"balde familia ate 5 pessoas",
+		"balde grande familia ate 10 pessoas"
+            });
+            
+            absClusters.emplace_back("pizze tradizionali  pequena",
+                                     "pizze tradizionali  pequena",
+                                     "pizze tradizionali  pequena");
+            absClusters.back().bulkFeed({
+                "reggio calabria",
+		"piacenza",
+		"pisa ",
+		"bologna ",
+		"roma",
+		"toscana ",
+		"foggia",
+		"arezzo ",
+		"ancona",
+		"marsala",
+		"modena",
+		"turim ",
+		"pistoia"
+            });
+            
+            absClusters.emplace_back("temaki",
+                                     "temaki",
+                                     "temaki");
+            absClusters.back().bulkFeed({
+                "temaki de lula",
+		"temaki kani",
+		"temaki mix",
+		"temaki california",
+		"temaki super skin",
+		"temaki de polvo",
+		"temaki hot butterfly",
+		"temaki de kani",
+		"temaki skin",
+		"temaki de camarao com alho",
+		"temaki de atum",
+		"temaki butterfly",
+		"big temaki",
+		"salmao simples",
+		"temaki de salmao",
+		"temaki hot philadelphia",
+		"temaki nova temaki",
+		"temaki philafly",
+		"temaki philadelphia"
+            });
+            
+            absClusters.emplace_back("promocao pizzas salgadas grandes",
+                                     "pizzas salgadas grandes",
+                                     "pizzas salgadas grandes");
+            absClusters.back().bulkFeed({
+                "queijos",
+		"shitake",
+		"alho",
+		"atum",
+		"portuguesa",
+		"foguinho",
+		"alicce",
+		"peperone",
+		"romana",
+		"rei arthur",
+		"frango catupiry",
+		"escarola",
+		"calabresa",
+		"tavola pizza light",
+		"camponesa",
+		"marguerita",
+		"muzzarela",
+		"pizzas grandes",
+		"beringela"
+            });
+            
+            absClusters.emplace_back("salgadinhos fritos especiais salgadinhos fritos salgadinhos fritos mais que especiais",
+                                     "salgadinhos fritos",
+                                     "salgadinhos fritos");
+            absClusters.back().bulkFeed({
+                "coxinha de frango 25 unidades 20g cada",
+		"bolinho de 3 queijos 100 unidades 20g cada",
+		"salgadinho de hot dog de 20g  25 unidades 20g cada",
+		"salgadinho de mortadela de 20g  100 unidades 20g cada",
+		"kibe de 20g    minus   1   plus 50 unidades 20g cada",
+		"bolinho de bacalhau 20g  25 unidades 20g cada",
+		"salgadinho de strogonoff de 20g  25 unidades 20g cada",
+		"salgadinho de pizza 25 unidades 20g cada",
+		"coxinha de frango 50 unidades 10g cada",
+		"boliviano de 20g  100 unidades 20g cada",
+		"bolinho de bacalhau 20g  100 unidades 20g cada",
+		"salgadinho de feijoada de 20g  25 unidades 20g cada",
+		"bolinho de 3 queijos 100 unidades 10g cada",
+		"risole de carne 100 unidades 20g cada",
+		"salgadinho de pizza 100 unidades 10g cada",
+		"bacon com cheddar de 20g  100 unidades 20g cada",
+		"bacon com cheddar de 20g  25 unidades 20g cada",
+		"coxinha de frango 100 unidades 20g cada",
+		"boliviano de 20g  25 unidades 20g cada",
+		"bolinho de 3 queijos 50 unidades 10g cada",
+		"calabresa com catupiry de 20g  25 unidades 20g cada",
+		"salgadinho de strogonoff de 20g  100 unidades 20g cada",
+		"salgadinho de pizza 50 unidades 10g cada",
+		"risole de carne 50 unidades 10g cada",
+		"salgadinho de mortadela de 20g  25 unidades 20g cada",
+		"bolinho de 3 queijos 25 unidades 20g cada",
+		"salgadinho de feijoada de 20g  100 unidades 20g cada",
+		"coxinha de frango 100 unidades 10g cada",
+		"mussarela com alho de 20g  100 unidades 20g cada",
+		"calabresa com catupiry de 20g  100 unidades 20g cada",
+		"risole de carne 100 unidades 10g cada",
+		"salgadinho de hot dog de 20g 100 unidades 20g cada",
+		"salgadinho de pizza 100 unidades 20g cada",
+		"pao de queijo frito de 20g  100 unidades 20g cada",
+		"mussarela com alho de 20g  25 unidades 20g cada",
+		"pao de queijo frito de 20g  25 unidades 20g cada",
+		"risole de carne 25 unidades 20g cada"
+            });
+            
+            absClusters.emplace_back("bebida refris bebidas",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "guarana antarctica zero",
+		"refrigerante guarana antarctica em lata de 350 ml",
+		"guarana antarctica 2 litros",
+		"guarana zero lata 350ml",
+		"lata guarana antarctica",
+		"guarana antarctica zero 2 litros",
+		"lata  guarana antarctica zero ",
+		"guarana antarctica zero lata",
+		"guarana antarctica lata 350ml",
+		"guarana antarctica lata 350ml ",
+		"refrigerante guarana antarctica em lata",
+		"refrigerante guarana antarctica zero em lata de 350 ml",
+		"guarana antarctica zero lata 350ml  ",
+		"guarana antarctica lata"
+            });
+            
+            absClusters.emplace_back("bebida bebidas refrigerante",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "refrigerante fanta uva em lata",
+		"fanta uva lata 350ml",
+		"fanta laranja lata",
+		"fanta lata ",
+		"fanta laranja lata 350ml",
+		"refrigerante fanta laranja em lata de 350 ml",
+		"fanta laranja 1lt",
+		"refrigerante fanta laranja de 15 litros",
+		"lata fanta laranja",
+		"fanta uva em lata 300 ml",
+		"refrigerante fanta uva em lata de 350 ml",
+		"lata fanta uva",
+		"refrigerante fanta laranja em lata",
+		"fanta uva 2l",
+		"fanta laranja 15l"
+            });
+            
+            absClusters.emplace_back("files de frango 3 pessoas files de frango 2 pessoas",
+                                     "files de frango 2 pessoas",
+                                     "files de frango 2 pessoas");
+            absClusters.back().bulkFeed({
+                "strogonoff de frango",
+		"frango a parmegiana",
+		"frango ao molho madeira",
+		"frango a brasileira",
+		"frango com legumes na chapa"
+            });
+            
+            absClusters.emplace_back("carnes",
+                                     "carnes",
+                                     "carnes");
+            absClusters.back().bulkFeed({
+                "alcatra para 3 pessoas",
+		"picanha para 4 pessoas",
+		"carne de sol para 4 pessoas",
+		"carne de sol para 3 pessoas",
+		"misto para 3 pessoas",
+		"alcatra para 2 pessoas",
+		"picanha para 3 pessoas",
+		"alcatra para 4 pessoas",
+		"misto para 2 pessoas",
+		"picanha para 2 pessoas",
+		"misto para 4 pessoas copia",
+		"carne de sol para 2 pessoas"
+            });
+            
+            absClusters.emplace_back("croissants doces croissants salgados",
+                                     "croissants doces",
+                                     "croissants doces");
+            absClusters.back().bulkFeed({
+                "croissant cream chicken",
+		"croissant camarao",
+		"croissant simples",
+		"croissant amazonico",
+		"croissant banana frita c doce de leite",
+		"croissant croque monsieur",
+		"croissant file com queijo",
+		"croissant misto quente",
+		"croissant cabocao",
+		"croissant hot dog",
+		"croissant brigadeiro",
+		"croissant napolitano",
+		"croissant churros",
+		"croissant morango nutella",
+		"croissant mms",
+		"croissant croque madame",
+		"croissant strogonoff",
+		"croissant queijo mussarela",
+		"croissant bacalhau",
+		"croissant salada"
+            });
+            
+            absClusters.emplace_back("mrdin seu din na caixa",
+                                     "mrdin seu din na caixa",
+                                     "mrdin seu din na caixa");
+            absClusters.back().bulkFeed({
+                "milho verde  1 unidade ",
+		"manga  1 unidade ",
+		"doce de leite  1 unidade ",
+		"toddynho 1 unidade ",
+		"leite ninho  1 unidade ",
+		"pacoca  1 unidade ",
+		"mr din  1 unidade ",
+		"cupuacu  1 unidade ",
+		"leite ninho com kit kat  1 unidade ",
+		"coco  1 unidade ",
+		"maracuja  1 unidade ",
+		"tapioca  1 unidade ",
+		"leite ninho com negresco  1 unidade ",
+		"chocolate  1 unidade ",
+		"chiclete  1 unidade ",
+		"farinha lactea  1 unidade ",
+		"ovomaltine  1 unidade ",
+		"acai  1 unidade ",
+		"buriti  1 unidade ",
+		"acai com tapioca  1 unidade "
+            });
+            
+            absClusters.emplace_back("porcoes pratos fit vegetarianos hortalicas ",
+                                     "pratos fit vegetarianos",
+                                     "pratos fit vegetarianos");
+            absClusters.back().bulkFeed({
+                "couve – maco",
+		"couve flor gratinada fit",
+		"porcao de couve a mineira"
+            });
+            
+            absClusters.emplace_back("marmitas low carb low carb",
+                                     "marmitas low carb",
+                                     "marmitas low carb");
+            absClusters.back().bulkFeed({
+                "salmao grill fit plus",
+		"salmao grelhado low carb 330 kcal",
+		"salmao grill fit",
+		"patinho moido com legumes fit 266kcal",
+		"proteina de soja low carb fit 280kcal",
+		"frango grill fit",
+		"patinho moido com legumes low carb  266 kcal",
+		"file mingnom grill fit plus",
+		"patinho moido com legumes fit plus 266kcal",
+		"proteina de soja low carb fit plus 280kcal",
+		"frango grill fit plus",
+		"file de frango low carb 250 kcal",
+		"file mingnom bovino grelhado low carb 345kcal",
+		"file mingom grill fit"
+            });
+            
+            absClusters.emplace_back("sushi especial sushi sushi homossomaki sushi nori",
+                                     "sushi",
+                                     "sushi");
+            absClusters.back().bulkFeed({
+                "sushi butterfly hot",
+		"sushi pepermaki",
+		"sushi philadelphia",
+		"sushi huramaki skin",
+		"sushi butterfly",
+		"sushi de salmao",
+		"sushi hot butterfly",
+		"sushi de kani",
+		"sushi especial haru butterfly",
+		"sushi uramaki philadelphia",
+		"sushi philadelphia hot",
+		"sushi especial uramaki salmao",
+		"sushi hot philadelphia",
+		"sushi vegetariano",
+		"sushi de philadelphia",
+		"sushi california",
+		"sushi especial haru salmao",
+		"sushi de banana",
+		"sushi de salmao simples",
+		"sushi especial mix",
+		"sushi especial mini joy 4 unidades",
+		"sushi de atum",
+		"sushi de salmao com shimeji",
+		"sushi kani",
+		"sushi de salmao fly",
+		"sushi skin",
+		"sushi especial mini joy nova temaki 4 unidades",
+		"sushi combinado",
+		"sushi de morango nute",
+		"sushi de salmao grelhado"
+            });
+            
+            absClusters.emplace_back("promocao hamburguer artesanal burguer combos",
+                                     "burguer",
+                                     "burguer");
+            absClusters.back().bulkFeed({
+                "doggers burguer",
+		"terrific burguer",
+		"kids burguer",
+		"asterix burguer",
+		"mistao doggers",
+		"drogo burguer",
+		"xsalada doggers",
+		"xtudo doggers",
+		"delicius burguer",
+		"burguer triplo",
+		"burguer",
+		"australiano burguer",
+		"bacon burguer",
+		"crispy chix",
+		"onions burguer",
+		"australian burguer",
+		"classic burguer"
+            });
+            
+            absClusters.emplace_back("burgers",
+                                     "burgers",
+                                     "burgers");
+            absClusters.back().bulkFeed({
+                "bb smoked  simples",
+		"bb bacon  duplo",
+		"bb salad  duplo",
+		"wth junior",
+		"bb cheddar  simples",
+		"chicken buddy",
+		"ay caramba ",
+		"holy smoke",
+		"bb salad  simples",
+		"bb smash  duplo",
+		"bb  sweet  duplo",
+		"wtf junior",
+		"bb bacon  simples",
+		"bb sweet  simples",
+		"bb smash  simples",
+		"bb smoked  duplo",
+		"bb melt  simples",
+		"bb melt  duplo",
+		"da madafaker",
+		"bb cheddar  duplo"
+            });
+            
+            absClusters.emplace_back("yakissoba aves",
+                                     "yakissoba",
+                                     "yakissoba");
+            absClusters.back().bulkFeed({
+                "yakissoba de frutos do mar",
+		"yakissoba 12 frango",
+		"yakissoba mista",
+		"yakissoba 12 carne",
+		"risoto chines de frango",
+		"risoto 12 chines de camarao",
+		"risoto chines misto",
+		"yakissoba de camarao",
+		"yakissoba de frango",
+		"yakissoba 12 mista",
+		"yakissoba 12 legumes",
+		"risoto chines de carne",
+		"risoto chines de camarao",
+		"yakissoba de carne 2 pessoas"
+            });
+            
+            absClusters.emplace_back("sopas fit pratos fit peixe pratos fit carne pratos fit frango pratos fit vegetarianos",
+                                     "sopas fit",
+                                     "sopas fit");
+            absClusters.back().bulkFeed({
+                "sopa creme de abobora ao leite de coco e frango 212 kcal sem gluten e sem lactose",
+		"patinho em cubos com macaxeira 230 kcalsem gluten e sem lactose",
+		"macarrao a bolonhesa 252 kcal sem gluten e sem lactose",
+		"lasanha integral de ricota com espinafre285 kcal sem gluten vegan e low carb",
+		"proteina de soja acebolada",
+		"frango ao creme de mostarda e arroz integral 221 kcal sem gluten e sem lactose",
+		"isca de carne acebolada com arroz integral  209 kcalsem gluten e sem lactose",
+		"risotto integral de carne com abobora 241 kcal",
+		"sopa de carne fit  153 kcal sem gluten e sem lactose",
+		"polpetone de patinho com macarrao ao molho bechamel  232 kcalsem gluten e sem lactose",
+		"frango com ervas finas 239kcalsem gluten e sem lactose",
+		"escondidinho de carne na macaxeira 239 kcal sem gluten e sem lactose",
+		"sobrecoxa de frango com fusillisem gluten e sem lactose",
+		"canja fit 153 kcal sem gluten e sem lactose",
+		"estrogonofe de patinho com arroz integral sem gluten e sem lactose",
+		"sopa de feijao fit 163 kcal sem gluten e sem lactose",
+		"frango ao molho branco com macarrao 252 kcal sem gluten e sem lactose",
+		"almondegas de patinho  229 kcalsem gluten e sem lactose",
+		"lasanha integral de frango light278 kcal",
+		"jardineira de frango com arroz integral239 kcal sem gluten e sem lactose",
+		"berinjela caprese vegan sem gluten",
+		"frango com batata doce 179 kcal sem gluten e sem lactose",
+		"patinho moido com legumes e arroz integral  229 kcal sem gluten e sem lactose",
+		"panqueca a bolonhesa sem gluten e sem lactose",
+		"macarrao a bolonhesa fit plus 252 kcal sem gluten e sem lactose",
+		"lasanha integral a bolonhesa light",
+		"fusilli ao creme de bacalhau  257 kcal",
+		"frango com batata doce fit plus 269kcal sem gluten e sem lactose",
+		"sopa de frango fit 147kcal sem gluten e sem lactose",
+		"frango xadrez fit 217 kcalsem gluten e sem lactose",
+		"feijoada light 301 kcal sem gluten e sem lactose",
+		"carne imperial fit241 kcal sem gluten e sem lactose",
+		"estrogonofe de frango com arroz integral 258kcalsem gluten e sem lactose"
+            });
+            
+            absClusters.emplace_back("gas agua bebidas",
+                                     "gas",
+                                     "gas");
+            absClusters.back().bulkFeed({
+                "com gas",
+		"fogas 20kg",
+		"kg ",
+		"fogas 13kg",
+		"agua com gas de 350ml",
+		"agua com gas",
+		"fogas 8kg",
+		"amazongas 7kg",
+		"agua com gas ",
+		"amazongas 13kg",
+		"gas de 13kg",
+		"k ",
+		"sem gas",
+		"fogas 5kg"
+            });
+            
+            absClusters.emplace_back("sanduiches sanduiches tradicionais sanduiches light",
+                                     "sanduiches",
+                                     "sanduiches");
+            absClusters.back().bulkFeed({
+                "x salada",
+		"x  salsicha",
+		"misto",
+		"x  salada",
+		"peito de peru com abacaxi",
+		"x  bauru",
+		"peito de peru",
+		"x tudo",
+		"bauru",
+		"x  salada especial",
+		"americano",
+		"mistao",
+		"x burgger",
+		"x hamburguer simples",
+		"x egg",
+		"x  bacon",
+		"x salada bacon",
+		"x maionese",
+		"x  egg",
+		"x  calabresa",
+		"x  maionese",
+		"x burguer"
+            });
+            
+            absClusters.emplace_back("pizzas salgadas pequenas",
+                                     "pizzas salgadas pequenas",
+                                     "pizzas salgadas pequenas");
+            absClusters.back().bulkFeed({
+                "queijos",
+		"atum",
+		"alho",
+		"portuguesa",
+		"foguinho",
+		"alicce",
+		"peperone",
+		"romana",
+		"rei arthur",
+		"frango catupiry",
+		"calabresa",
+		"escarola",
+		"camponesa",
+		"tavola pizza light",
+		"shitake",
+		"marguerita",
+		"muzzarela",
+		"beringela"
+            });
+            
+            absClusters.emplace_back("sobremesas  doces sobremesas sobremesas dukan sobremesa",
+                                     "sobremesas dukan",
+                                     "sobremesas dukan");
+            absClusters.back().bulkFeed({
+                "sobremesa trufa",
+		"mousse",
+		"sobremesa sorvete 1 bola",
+		"supremo de cupuacu dukan light e diet 100g",
+		"sobremesa pote da felicidade",
+		"supremo de morango dukan light e diet 100g",
+		"mousse de limao com chocolate",
+		"pastel de belem 1 unidade ",
+		"mousse de cupuacu",
+		"supremo dark morango",
+		"mousse de cupuacu com chocolate",
+		"sobremesa taca de sorvete morango com chantilly",
+		"mousse de farinha lactea",
+		"pudim de leite",
+		"sobremesa sorvete 2 bolas",
+		"supremo dark maracuja",
+		"sobremesa bolo no pote",
+		"mousse de ovomaltine",
+		"tortinha de nutella 1 unidade ",
+		"mousse pave de sonho de valsa",
+		"sobremesa bolo",
+		"tortinha de cupuacu com brigadeiro 1 unidade ",
+		"torta de leite ninho com brigadeiro 1 unidade ",
+		"supremo de maracuja dukan light e diet 100g",
+		"sobremesa brigadeiro",
+		"mousse de chocolate",
+		"supremo dark cupuacu"
+            });
+            
+            absClusters.emplace_back("files de frango   2 pessoas  files mignons bovino individual  files de frango  individuais files mignons bovino  2 pessoas ",
+                                     "files mignons bovino individual",
+                                     "files mignons bovino individual");
+            absClusters.back().bulkFeed({
+                " file com legumes aprox 160g e 320g de carne in natura",
+		"file acebolado aprox 160g e 320g de carne in natura",
+		" file com fritas aprox 160g e 320g de carne in natura",
+		"file com fritas aprox 160g e 320g de carne in natura",
+		"frango com legumes aprox 160g e 320g de carne in natura",
+		" file acebolado aprox 160g e 320g de carne in natura",
+		"file com legumes aprox 160g e 320g de carne in natura",
+		"file ao molho madeira aprox 160g e 320g de carne in natura",
+		"file a oswaldo aranha aprox 160g e 320g de carne in natura"
+            });
+            
+            absClusters.emplace_back("agua  sucos naturais agua   bebidas agua",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "agua mineral 350ml",
+		"yara agua com gas 350 ml",
+		"yara 350 ml",
+		" agua tonica 300ml",
+		"yara 2 litros",
+		"agua mineral de 350ml",
+		"agua yara",
+		"agua pequena",
+		"agua nossa agua ",
+		"agua tonica",
+		"agua grande",
+		"agua mineral pequena",
+		"garrafao de agua  20l",
+		"agua 2l",
+		"yara garrafao 20l",
+		"agua mineral 500ml",
+		"agua mineral 300ml",
+		"garrafao de agua ",
+		"agua mineral 500 ml",
+		"agua mineral",
+		"aguacrim garrafao 20l"
+            });
+            
+            absClusters.emplace_back("sushi homossomaki hot",
+                                     "sushi homossomaki",
+                                     "sushi homossomaki");
+            absClusters.back().bulkFeed({
+                "salmao hot",
+		"hot de salmao",
+		"hot kani",
+		"hot de salmao fly",
+		"hot butterfly",
+		"hot philadelphia",
+		"hot skin",
+		"hot salmao grelhado",
+		"hot de atum"
+            });
+            
+            absClusters.emplace_back("bebida bebidas refrigerante refrigerantes",
+                                     "bebida",
+                                     "bebida");
+            absClusters.back().bulkFeed({
+                "guarana bare lata",
+		"refrigerante bare lata",
+		"bare 2l",
+		"lata bare ",
+		"refrigerante soda limonada em lata",
+		"soda lata",
+		"bare lata",
+		"refrigerante soda em lata",
+		"soda  lata",
+		"guarana bare 2 litros",
+		"lata soda limonada",
+		"refrigerante bare em lata",
+		"refrigerante bare em lata de 350 ml",
+		"bare 2 litros",
+		"bare"
+            });
+            
+            absClusters.emplace_back("pizza grande promocao porcoes avulsas acompanhamentos",
+                                     "acompanhamentos",
+                                     "acompanhamentos");
+            absClusters.back().bulkFeed({
+                "brochete de file mignon a grega",
+		"arroz a grega",
+		"grega"
+            });
+            
+            absClusters.emplace_back("pote de frutas de 250ml pote de frutas de 350ml frutas",
+                                     "frutas",
+                                     "frutas");
+            absClusters.back().bulkFeed({
+                "mamao calimosa kg",
+		"cupuacu",
+		"mix 1  manga uva verde uva black kiwi e morango",
+		"mix 3  melao manga uva verde tangerina e kiwi",
+		"mix 2  melao abacaxi uva verde kiwi e morango",
+		"macaxeira – kg",
+		"tangerina – 5 und"
+            });
+            
+            absClusters.emplace_back("acompanhamentos",
+                                     "acompanhamentos",
+                                     "acompanhamentos");
+            absClusters.back().bulkFeed({
+                "chips de mandioca"
+            });
+            
+            absClusters.emplace_back("variedades sunomono",
+                                     "variedades",
+                                     "variedades");
+            absClusters.back().bulkFeed({
+                "sunomono salmao kani",
+		"niguiri de camarao 2 unidades",
+		"niguiri skin 2 unidades",
+		"sunomono kani e gingerlim",
+		"niguiri de polvo 2 unidades",
+		"sunomono",
+		"sunomono salmao",
+		"niguiri de salmao 2 unidades",
+		"ceviche de salmao ",
+		"niguiri de kani 2 unidades"
+            });
+            
+            absClusters.emplace_back("individual  salgados assados da casa salgados assados",
+                                     "individual  salgados assados da casa",
+                                     "individual  salgados assados da casa");
+            absClusters.back().bulkFeed({
+                "pao de batata de peru com ricota",
+		"pastel de forno de banana 25 unidades 30g",
+		"pao de batata de catupiry",
+		"croissant simples",
+		"pao de batata de peru com ricota 25 unidades 30g",
+		"empanada de cebola queijo e nozes",
+		"pastel de forno de cupuacu 25 unidades 30g",
+		"tranca de queijo tucuma e banana",
+		"empanada integral de frango com ricota",
+		"folhado de queijo com presunto",
+		"pao de queijo tradicional  25 unidades",
+		"empada de frango",
+		"pastel de forno de camarao",
+		"pastel de forno de carne simples",
+		"folhado de queijo",
+		"pastel de forno de cupuacu",
+		"croissant com queijo 70g",
+		"pastel de forno de carne 25 unidades 30g",
+		"pao de batata de frango",
+		"pastel de forno de frango"
+            });
+            
+            absClusters.emplace_back("porcoes avulsas",
+                                     "porcoes avulsas",
+                                     "porcoes avulsas");
+            absClusters.back().bulkFeed({
+                "molho madeira",
+		"fusilli ao alho e oleo",
+		"molho sugo",
+		"molho bechamel",
+		"arroz com brocolis",
+		"peito de frango grelhado 250g",
+		"arroz branco",
+		"batatas picantes",
+		"file mignon 250g",
+		"fusilli ao sugo",
+		"batatas soutee",
+		"salada fresca",
+		"legumes refogados",
+		"fusilli ao bechamel",
+		"molho belle meuniere",
+		"batatas rusticas",
+		"farofa crocante",
+		"salmao grelhado 250g"
+            });
+            
+            absClusters.emplace_back("promocao sanduiches prazo limitado hotdogs",
+                                     "sanduiches",
+                                     "sanduiches");
+            absClusters.back().bulkFeed({
+                "hot dog mineirinho",
+		"barbecue dog",
+		"galo fight  batata rustica",
+		"batata rustica",
+		"red dog bacon  batata rustica",
+		"cheddar dog",
+		"red dog",
+		"red dog bacon",
+		"parmesan dog",
+		"caseiro dog",
+		"rnk burger chicken  batata rustica",
+		"red dog  2 antarctica lata"
+            });
+            
+            absClusters.emplace_back("promocao peixes fritos adicionais guarnicoes batata frita acompanhamento sobremesa acompanhamentos porcao individual pratos executivos lanches",
+                                     "guarnicoes",
+                                     "guarnicoes");
+            absClusters.back().bulkFeed({
+                "maionese",
+		" porcao de batata frita 200g",
+		"batata rustica frita",
+		"vinagrete",
+		"banana frita com acucar e canela",
+		"pure de batata",
+		"arroz com brocolis",
+		"banana frita 120g",
+		"arroz",
+		"cebola frita a moda do chef",
+		"batata frita",
+		"batata frita g",
+		"feijao tropeiro",
+		"pao com alho  unidade",
+		"batata frita p",
+		"lanche batata frita",
+		"batata frita pequena",
+		"kikao especial  guarana antarctica  batata frita",
+		"vatapa de camarao",
+		"salada de legumes",
+		"sardinha frita",
+		"batata rustica frita especial",
+		"batata gourmet",
+		"bisteca frita"
+            });
+            
+            absClusters.emplace_back("pizze di verdure grande pizze di verdure pequena",
+                                     "pizze di verdure grande",
+                                     "pizze di verdure grande");
+            absClusters.back().bulkFeed({
+                "vicenza",
+		"vincenza",
+		"imola",
+		"vigevano",
+		"viterbo",
+		"vittorio"
+            });
+            
+            absClusters.emplace_back("trufas especiais trufa tradicionais",
+                                     "trufas especiais",
+                                     "trufas especiais");
+            absClusters.back().bulkFeed({
+                "trufa de chocolate branco",
+		"trufa de brigadeiro",
+		"trufa de cafe",
+		"trufa de coco",
+		"trufa de castanha",
+		"trufa de caipirinha",
+		"trufa de ovomaltine",
+		"trufa de napolitano",
+		"trufa de choquito",
+		"trufa de amendoim "
+            });
+            
+            absClusters.emplace_back("bebida bebidas refrigerante refrigerantes",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "tonica lata 350ml",
+		"fantauva em lata 350ml",
+		"pepsi em lata 350ml",
+		"agua tonica em lata 350ml",
+		"pepsi lata 350ml   ",
+		"coca lata 350ml",
+		"refrigerante em lata 350ml",
+		"soda lata 350ml  ",
+		"pepsi lata",
+		"sukita lata  ",
+		"refrigerante lata 350ml",
+		"fantauva lata",
+		"pepsi lata ",
+		"refrigerante pepsi em lata",
+		"fantalaranja em lata",
+		"sprite lata 350ml",
+		"sprite lata",
+		"cocacolalata 350ml",
+		"lata  pepsi",
+		"pepsi 2l",
+		"cha gelado lata 350ml cha branco sabor lichia",
+		"fantalaranja em lata 350ml",
+		"cha gelado lata 350ml cha verde sabor laranja com gengibre"
+            });
+            
+            absClusters.emplace_back("tapiocas",
+                                     "tapiocas",
+                                     "tapiocas");
+            absClusters.back().bulkFeed({
+                " tapioca castanha e queijo",
+		"tapioca tucuma queijo e banana",
+		"tapioca morango c creme de avela",
+		"tapioca com queijo mussarela",
+		"tapioca simples",
+		"tapioca com queijo coalho",
+		"tapioca com ovo",
+		" tapioca banana e queijo"
+            });
+            
+            absClusters.emplace_back("hortalicas ",
+                                     "hortalicas ",
+                                     "hortalicas ");
+            absClusters.back().bulkFeed({
+                "pimentao verde – 300g",
+		"cheiro verde – maco",
+		"maxixe – 300g",
+		"alface americana – maco",
+		"alface crespa – maco",
+		"abobrinha – und",
+		"salsinha – maco",
+		"tomate cereja – 300g",
+		"pimenta de cheiro – 300g",
+		"feijao de metro – maco",
+		"hortela – maco",
+		"quiabo – 8 und",
+		"pepino – 3 und"
+            });
+            
+            absClusters.emplace_back("pizze speciali pequeno pizze speciali grande",
+                                     "pizze speciali grande",
+                                     "pizze speciali grande");
+            absClusters.back().bulkFeed({
+                "genova",
+		"venezia",
+		"capri",
+		"verona",
+		"napoli",
+		"siena",
+		"milano",
+		"viareggio",
+		"savona"
+            });
+            
+            absClusters.emplace_back("burgers sanduiches",
+                                     "burgers",
+                                     "burgers");
+            absClusters.back().bulkFeed({
+                "street burger cheddar onions",
+		"street burger cheddar",
+		"street burger classic",
+		"street burger costela",
+		"street burger bacon",
+		"wth burger",
+		"street burger chicken",
+		"wtf burger",
+		" street burger chef",
+		"american burger",
+		"street burger eua",
+		"street burger cupim",
+		" street burger salad",
+		"street burger picanha",
+		"street burger "
+            });
+            
+            absClusters.emplace_back("calzone salgados bebida yakisoba banheiros hotdogs ferragens gelo combos bebidas revestimentos ferramentas hidraulico cafes pias tanques  cubas saladas premium a moda da casa cervejas acompanhamento tintas uramaki 10 cortes pizzas doces somente pequeno executivos barbaros frutas alambre refrigerante",
+                                     "saladas",
+                                     "saladas");
+            absClusters.back().bulkFeed({
+                "skarloff 269 ml",
+		"popato skin",
+		"massa corrida hidracor 25 kg 19134",
+		"sprite em lata 300 ml",
+		"furadora impacto skil 220v 6055 13037",
+		"capuccino com brigadeiro",
+		"capuccino com creme de avela",
+		"revestimento  rocha forte triunfo 33x57 alpes 25m2 14230",
+		"tinta esmalte secagem rapida coral 36 litro gelo 2304",
+		"bare2l",
+		"cerveja corona longneck de 355ml",
+		"combo1 2 croissant camarao  1 coca 1lt",
+		"uramaki de salmao",
+		"enxada estreita com cabo 25 famastil 10040",
+		"salmao ao molho de maracuja",
+		"yakisoba de camarao",
+		"eisenbahn pale ale",
+		"cha leao ice tea pessego 300ml",
+		"maracuja – 500g",
+		"coco seco – unid",
+		"cremona",
+		"polpetone recheado com mucarela",
+		"crotone",
+		"budweiser longneck",
+		"salada fresca 200g",
+		"cerveja itaipava premium longneck 350ml",
+		"esmerilhad hitachi 4 12 220v g12sr3eb 13599",
+		"pia ai pianox 120m simples concretada 4771",
+		"tinta acrilica hidralacril branca 18l neve 2448",
+		"pasta cheese",
+		"cerveja heineken longneck",
+		"kikao especial",
+		"yakisoba de carne",
+		"kikao especial com queijo gratinado e bacon",
+		"little finger",
+		"grey joy",
+		"eisenbahn pilsen",
+		"berinjela recheada",
+		"carrinho de mao cj branco metalizado cano metal ra 77704432 11686",
+		"fechadura  soprano pop line externa cromada 4092",
+		"revestimento rocha forte 33x57 hd57719 25m2 16414",
+		"matador de fome",
+		"espelheira l ocean 60x80 astra pr epbfo 13548",
+		"ducha top jet multitemperaturas 127v 5500w lorenzetti 372095 2960",
+		"valvalvula pia americana standard 312 pianox 67722 11050",
+		"quiche de bacalhau",
+		"ducha bello banho ultra 110v 4600w 3 temperaturas com cano lorenzetti 372055 14304",
+		"uramaki philadelphia",
+		"dogao",
+		"caipirinha 500 ml",
+		"cerveja itaipava 269 ml",
+		"matador de fome especial",
+		"pasta cheese bacon especial2100",
+		"cartela dobradica galvanizada 3 12 1fg 2488",
+		"cafe expresso",
+		"barletta",
+		"caipirinha de 500 ml",
+		"laranja – 100 unid",
+		"gelo 40kg",
+		"salmao ao molho de madeira",
+		"uramaki butterfly",
+		"revestimento incopisos bella 32x57 hd40050 2m2 12767",
+		"conjunto para pintura 3 pecas atlas 1001 15714",
+		"alambre 1 pessoa",
+		"cafe com leite",
+		"andria",
+		"capuccino italiano",
+		"fantalaranja 2l",
+		"banana pacova – 3 unid",
+		"cerveja budweiser longneck 350ml",
+		"luca",
+		"salada fresca 100g",
+		"tex mex",
+		"the smoky",
+		"pia ai pianox 100m simples concretada 4765",
+		"alambre 2 pessoa",
+		"quibe de carne unidade",
+		"revestimento rocha forte triunfo 33x57 hd marselha 25m2 13932",
+		"tuchaua champ",
+		"onion rings"
+            });
+            
+            absClusters.emplace_back("adicional a parte",
+                                     "adicional a parte",
+                                     "adicional a parte");
+            absClusters.back().bulkFeed({
+                "adicional de queijo cheddar no copo",
+		"adicional de maionese de tabasco no copo",
+		"sache ketchup heinz",
+		"adicional de barbecue no copo",
+		"adicional de farofa de bacon no copo",
+		"sache maionese heinz",
+		"adicional de mostarda no copo",
+		"adicional de maionese defumada no copo",
+		"adicional de batata palha",
+		"adicional de queijo parmesao no copo"
+            });
+            
+            absClusters.emplace_back("sucos naturais bebidas",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "schweppes citrus em lata",
+		"schwepper citrus",
+		"schweppes citrus",
+		"schweppes citrus lata 350ml"
+            });
+            
+            absClusters.emplace_back("loucas sanitarias",
+                                     "loucas sanitarias",
+                                     "loucas sanitarias");
+            absClusters.back().bulkFeed({
+                "lavatorio suspenso 38x28 colibri br 1694",
+		"bacia convencional parati logasa br 1777",
+		"cuba embutir oval celite perg 726",
+		"tanque de louca celite p 18l br 2561",
+		"lavatorio sint luxor com toalheiro sicmol br 3000",
+		"lavatorio suspenso 46x34 guarapari ocre 14349",
+		"cuba embutir oval deca l37 br 643",
+		"cuba embutir oval celite  br 9394",
+		"mictorio sinfonado celite br 5829",
+		"cuba embutir oval celite  ag mar 732",
+		"bacia com caixa zip incepa branco conjunto 6666",
+		"cuba sobrepor oval deca l65 br 686",
+		"lavatorio para coluna parati logasa branco 1670",
+		"cuba de apoio japi capri jcubac 18074",
+		"tanque de louca celite g 32l br 17584",
+		"cuba de apoio japi ravena br jcubar 6133",
+		"cuba embutir oval incepa br 2533",
+		"lavatorio sint firenze com toalheiro sicmol pt 2012",
+		"cuba de apoio japi rimini br jcubarm 18027",
+		"coluna para lavatorio logasa branco 503",
+		"lavatorio compacto com cuba e toalh sicmol br 7564"
+            });
+            
+            absClusters.emplace_back("argamassas  rejuntes premium viva mexico talheres descartaveis eletricos porco  costela bbq ferramentas tacos telhas  caixas daguas ferragens petiscos",
+                                     "telhas  caixas daguas",
+                                     "telhas  caixas daguas");
+            absClusters.back().bulkFeed({
+                "taco pollo",
+		"bolinho de bacalhau 6 unidades",
+		"argamassa quartzolit 20kg impermeavel interna 12592",
+		"picareta chibanca 3lb com cabo 90cm 18932",
+		"petisco mistao",
+		"caixa dagua em fortlev com tampa 1000 litros azul 4638",
+		"cabo eletrico flexivel top cables 40mm preto  peca c 100m 17404",
+		"taco carne",
+		"taco chilli beans",
+		"linguica fatiada  porco",
+		"linguica de fatiada  frango",
+		"individual ripas",
+		"tacaca pequeno",
+		"telha brasilit 4mm 244x050m fibrotex 4116",
+		"fechadura 80303 espelho inox externo gorje",
+		"petisco de calabresa acebolada",
+		"tacaca medio",
+		"cabo eletrico flexivel top cables 60mm preto  peca c 100m 17406",
+		"tomada padrao 2p  t 10a  250v  evidence fame 10a 2911 15890",
+		"interruptor simples 16a evidence fame 2896 15853",
+		"combo love",
+		"kit prato e talheres",
+		"kit talher  prato",
+		"mega crocante",
+		"experiencia el dino",
+		"argamassa cimentcola interno quartzolit 20kg aci 1913",
+		"magnifico",
+		"argamassa porcelanato piso sobre piso 20kg quartzolit 1952",
+		"argamassa cimentcola externo e interno quartzolit 20kg acii 1912",
+		"petisco de carne acebolada com limao",
+		"taco el mariachi",
+		"parafuzadeira  hitachi bateria 144 com lanterna 127v 12575",
+		"telha brasilit 4mm 244x050m ondina",
+		"cabo eletrico flexivel top cables 25mm preto  peca c 100m 17401",
+		"intero ripas",
+		"pa de bico com cabo 71cm 77459424 2858",
+		"tacaca grande",
+		"taco cerdo",
+		"argamassa cimentcola flexivel aciii cinza 20kg quartzolit 1946",
+		"taco de soja",
+		"argamassa piso sobre piso interno branco quartzolit 20kg 1914",
+		"mais gostoso"
+            });
+            
+            absClusters.emplace_back("executivos barbaros file de peixe file bovinos 3 pessoas  aprox 600g de carne file bovinos 2 pessoas  aprox 400g de carne",
+                                     "executivos barbaros",
+                                     "executivos barbaros");
+            absClusters.back().bulkFeed({
+                "file a delicia  2 pessoas",
+		" file ao alho",
+		"file a oswaldo aranha  3 pessoas",
+		"brochete de file mignon a grega 2 e 3 pessoas",
+		"tambaqui belle meuniere",
+		"steak au poivre vert  2 pessoas",
+		"file acebolado  2 pessoas",
+		"file acebolado  3 pessoas",
+		"file de pirarucu a parmegiana 2 pessoas",
+		"file de pirarucu ao escabeche 2 pessoas",
+		"steak au poivre vert",
+		"file a oswaldo aranha  2 pessoas",
+		"file ao molho madeira",
+		"file de tambaqui ao escabeche 2 pessoas",
+		"strogonoff de file mignon",
+		"file acebolado",
+		"file de tambaqui a parmegiana",
+		"strogonoff de file mignon  2 pessoas",
+		"costela de tambaqui ao escabeche 2 pessoas",
+		"file ao molho madeira  2 pessoas",
+		"file a parmegiana",
+		"file a delicia"
+            });
+            
+            absClusters.emplace_back("bebida bebidas",
+                                     "bebida",
+                                     "bebida");
+            absClusters.back().bulkFeed({
+                "refrigerante bare de 15 litros",
+		"refrigerante coca cola zero de 15 litros",
+		"refrigerante coca cola de 15 litros",
+		"refrigerante coca cola de 2 litros"
+            });
+            
+            absClusters.emplace_back("bebidas",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "suco de polpa goiaba 500ml",
+		"suco de polpa cupuacu 500ml",
+		"suco del vale goiaba",
+		"suco de polpa cupuacu 350ml",
+		"suco de polpa goiaba 350ml",
+		"suco de polpa tapereba 500ml",
+		"suco de polpa acerola 350ml",
+		"suco del valle goiaba lata",
+		"suco de polpa acerola 500ml",
+		"suco de polpa tapereba 350ml"
+            });
+            
+            absClusters.emplace_back("hamburguer artesanal 100g sanduiches hamburguer artesanal hamburguer",
+                                     "hamburguer artesanal",
+                                     "hamburguer artesanal");
+            absClusters.back().bulkFeed({
+                "monster bull",
+		"mrs lore",
+		"hamburguer",
+		"super hamburger",
+		"hamburguer com omelete",
+		"hamburguer com queijo",
+		"abburguer",
+		"hamburguer com abacaxi",
+		"hamburguer com bacon",
+		"hamburguer acebolado com bacon",
+		"big hamburguer",
+		"the boss",
+		"hamburguer acebolado",
+		"super hamburguer",
+		"mozzarella",
+		"hamburguer acebolado com omelete",
+		"magnifico",
+		"hamburguer com bacon e omelete"
+            });
+            
+            absClusters.emplace_back("sucos sucos naturais",
+                                     "sucos naturais",
+                                     "sucos naturais");
+            absClusters.back().bulkFeed({
+                "graviola",
+		"acerola",
+		"suco de goiaba  natural one 300ml",
+		"suco de manga",
+		"goiaba",
+		"suco de morango",
+		"suco de abacaxi",
+		"maracuja",
+		"suco de cupuacu",
+		"suco de laranja 100 natural 300ml",
+		"suco de goiaba",
+		"suco de uva  natural one",
+		"suco de maracuja",
+		"suco de goiaba  natural one",
+		"suco de maca   natural one",
+		"suco de laranja  natural one 300ml",
+		"suco de maca  natural one 300ml",
+		"suco de laranja  natural one",
+		"abacaxi",
+		"suco veggies 100 natural 300ml",
+		"suco de tapereba caja",
+		"suco de uva  natural one 300ml",
+		"suco veggies  natural one",
+		"suco de caju"
+            });
+            
+            absClusters.emplace_back("quesadillas",
+                                     "quesadillas",
+                                     "quesadillas");
+            absClusters.back().bulkFeed({
+                "quesadilla el mariachi",
+		"quesadilla de cerdo",
+		"quesadilla de soja",
+		"quesadilla queso",
+		"quesadilla de chilli beans",
+		"quesadilla de carne",
+		"quesadilla pollo"
+            });
+            
+            absClusters.emplace_back("pasteis adicionais",
+                                     "adicionais",
+                                     "adicionais");
+            absClusters.back().bulkFeed({
+                "arroz com brocolis 250g",
+		"pastel de carne e queijo coalho",
+		"carne extra  queijo",
+		"farofa 250g",
+		"queijo",
+		" alface ",
+		"pastel de banana e queijo coalho",
+		" cebola caramelizada ",
+		"pastel de queijo",
+		"pastel de calabresa com queijo",
+		"arroz branco 250g",
+		" tomate ",
+		"maionese 250g",
+		"abacaxi ",
+		"bacon",
+		"pimentao salteados",
+		" picles ",
+		"mucarela"
+            });
+            
+            absClusters.emplace_back("cafes pizza doce pizzas doces pequenas",
+                                     "cafes",
+                                     "cafes");
+            absClusters.back().bulkFeed({
+                "chocolate quente",
+		"capuccino com chocolate",
+		"pizza doce sabor banana",
+		"pizza doce sabor calzone chocolate",
+		"romeu e julieta",
+		"chocolate",
+		"creme de cupuacu",
+		"chocolate com mm",
+		"banana",
+		"capuccino com doce de leite"
+            });
+            
+            absClusters.emplace_back("espetos tradicionais espetos especiais",
+                                     "espetos especiais",
+                                     "espetos especiais");
+            absClusters.back().bulkFeed({
+                "espeto de linguica de frango",
+		"espeto de carne alcatra",
+		"espeto de file mignon com bacon",
+		"espeto de queijo",
+		"espeto de file de frango com cream cheese",
+		"espeto coxinha da asa",
+		"espeto de file mignon suino",
+		"espeto de carne e frango",
+		"espeto de medalhao de file de frango com bacon",
+		"espeto de file mignon com queijo",
+		"espeto de lingua",
+		"espeto de cupim",
+		"espeto file de frango",
+		"espeto de linguica mista suina e de frango",
+		"espeto misto de frango",
+		"espeto de calabresa",
+		"espeto misto de carne",
+		"espeto de linguica suina",
+		"espeto vegetariano",
+		"espeto de ovo de codorna",
+		"espeto de file mignon bovino",
+		"espeto de kafta bovina",
+		"espeto de picanha",
+		"espeto de coracao"
+            });
+            
+            absClusters.emplace_back("porcoes avulsas porcao individual guarnicoes acompanhamentos",
+                                     "guarnicoes",
+                                     "guarnicoes");
+            absClusters.back().bulkFeed({
+                "farofa de ovos",
+		"farofa de ovos com banana e azeitonas",
+		"farofa simples",
+		"farofa de ovos com azeitona",
+		"farofa torrada 100g",
+		"farofa"
+            });
+            
+            absClusters.emplace_back("prato aberto lanches light",
+                                     "prato aberto",
+                                     "prato aberto");
+            absClusters.back().bulkFeed({
+                "sante paninno light 245 kcal205g",
+		"sante burguer 319 kcal",
+		"super light",
+		"guarana turbo 337 kcal",
+		"sante burguer vegetariano 285 kcal",
+		"sante filet paninno light  285 kcal 245g",
+		"sante pollo paninno light  285 kcal245g",
+		"sante filet burguer 293 kcal"
+            });
+            
+            absClusters.emplace_back("salgados assados",
+                                     "salgados assados",
+                                     "salgados assados");
+            absClusters.back().bulkFeed({
+                "folheado de queijo",
+		"folheado de queijo com presunto",
+		"croissant simples",
+		"pao de batata de catupiry",
+		"pao de batata de peruricota",
+		"esfirra de carne",
+		"empada integral de frango com ricota",
+		"empada de banana",
+		"folheado de bacalhau",
+		"tranca tucuma queijo e banana",
+		"folheado de salsicha",
+		"empada de camarao",
+		"esfirra de frango",
+		"empada de frango",
+		"jacare de queijo e presunto",
+		"pao de queijo 25 unidades",
+		"croissant com queijo",
+		"empada de cebola queijo e nozes"
+            });
+            
+            absClusters.emplace_back("sandubas",
+                                     "sandubas",
+                                     "sandubas");
+            absClusters.back().bulkFeed({
+                "sinistro",
+		"matador",
+		"viralata",
+		"guara",
+		"cacador",
+		"vulcao",
+		"pork",
+		"wolfinho",
+		"alpha"
+            });
+            
+            absClusters.emplace_back("peixes fritos file de peixe peixes",
+                                     "file de peixe",
+                                     "file de peixe");
+            absClusters.back().bulkFeed({
+                "creme de pirarucu seco",
+		"pirarucu grelhado",
+		"pirarucu ao belle meuniere",
+		"moqueca de pirarucu",
+		"file de pirarucu frito",
+		"pirarucu agridoce",
+		"pacu frito",
+		"pirarucu a delicia"
+            });
+            
+            absClusters.emplace_back("refris",
+                                     "refris",
+                                     "refris");
+            absClusters.back().bulkFeed({
+                "soda",
+		"cocacola",
+		"guarana antarctica",
+		"fanta",
+		"pepsi",
+		"bare"
+            });
+            
+            absClusters.emplace_back("combos combo kids",
+                                     "combo kids",
+                                     "combo kids");
+            absClusters.back().bulkFeed({
+                "combo miguelagem 1 pessoa",
+		"combo 9",
+		"combo medalhao de file mignon com bacon",
+		"combo  p",
+		"combo 3",
+		"combo trio  x",
+		"combo 1",
+		"combo 5 50 pecas",
+		"combo 5",
+		"nosso combo 03",
+		"combo 6 70 pecas",
+		"combo miguelagem  suco  batata 2 pessoas",
+		"combo 3 2 croissant cream chiken  cocacola 1lt",
+		"meu combo 01",
+		"combo trio  p",
+		"combo 6",
+		"combo regional  suco de 1 litro  batata",
+		"combo 1 15 pecas",
+		"nosso combo 01",
+		"combo x",
+		"combo mixto",
+		"combo 2 30 pecas",
+		"meu combo 02",
+		"combo especial",
+		"combo 8",
+		"combo 4",
+		"combo 7",
+		"combo 2",
+		"combo kids",
+		"combo 3 hot 30 pecas",
+		"combo 2  2 croissant bacalhau  cocacola 1lt"
+            });
+            
+            absClusters.emplace_back("esquadrias",
+                                     "esquadrias",
+                                     "esquadrias");
+            absClusters.back().bulkFeed({
+                "janela de correr de aco branco  gradeada quadrada 100x120 36810 18761",
+		"basculante vidro canelado 3 folhas 60ax60l 0192  habitec 18161",
+		"basculante aluminio habitec 40ax60l 182",
+		"janela de correr de aco branco sem grade  100x120 36520 18766",
+		"porta pratica easy lock sanfonada em pvp rigido 070x210m branca  araforros 3997",
+		"porta de aco ramassol  215x083 laminada d 900186 4997",
+		"basculante aluminio habitec 60ax80l 194 18180",
+		"porta aluminio habitec 080lx210a veneziana d 0029 18171",
+		"porta madeira  080x210 laminada lisa comum  01 19511",
+		"janela de correr de aco branco sem grade 100x100 36510 18771",
+		"porta pratica easy lock sanfonada em pvp rigido 080x210m branca  araforros 3999",
+		"porta madeira  070x210 laminada lisa comum  01 19510",
+		"porta de aco ramassol  215x060 laminada d 900166 4995",
+		"porta de aco ramassol  215x070 laminada d 900176 5009",
+		"porta pratica easy lock sanfonada em pvp rigido 060x210m branca  araforros 3995"
+            });
+            
+            absClusters.emplace_back("pisos",
+                                     "pisos",
+                                     "pisos");
+            absClusters.back().bulkFeed({
+                "piso rocha forte 45x45 4547 25m2 11651",
+		"piso unigres 45x45 45105 ouro preto 232m2 15425",
+		"piso almeida 41x41 40a60 2m2 4861",
+		"piso cerbras 46x46 carajas 23m2 15932",
+		"piso cerbras 46x46 araxa bege 23m2 10085",
+		"piso almeida 30x30 blanc 2m2 4843",
+		"piso artec 45x45 45010 2m2 9857",
+		"piso unigres 45x45 45020 malli bege 232m2 3481",
+		"piso unigres 51x51 51123 rj 26m2 5484",
+		"piso unigres 47x47 47101 jequitiba mogno255m2 4374",
+		"piso rocha forte vitoria gres 45x45 45546 25m2 17588",
+		"piso cerbras 46x46 neve 23m2 10020",
+		"piso unigres 47x47 47201 paineir cz 255m2 18243"
+            });
+            
+            absClusters.emplace_back("bolos para encomenda bolo medio de chocolate com cobertura bolo medio de milho normal bolo medio de milho cobertura de chocolate bolo medio de leite normal bolo medio de abacaxi",
+                                     "bolo medio de milho cobertura de chocolate",
+                                     "bolo medio de milho cobertura de chocolate");
+            absClusters.back().bulkFeed({
+                "bolo de churros",
+		"bolo medio de abacaxi",
+		"bolo de chocolate",
+		"bolo de cappuccino",
+		"bolo mesclado",
+		"bolo de chocolate com cupuacu",
+		"bolo medio de chocolate com cobertura",
+		"bolo medio de milho cobertura de chocolate",
+		"bolo de leite ninho",
+		"bolo medio de milho normal",
+		"bolo medio de leite normal 3490",
+		"bolo de ovomaltine"
+            });
+            
+            absClusters.emplace_back("pescados premium massas sem gluten file mingnom sugestao do chef",
+                                     "file mingnom",
+                                     "file mingnom");
+            absClusters.back().bulkFeed({
+                "file a delicia light 321 kcal sem gluten e sem lactose",
+		"patinho em cubos com macaxeira 232 kcal sem gluten e sem lactose",
+		"fusilli sem gluten a bolonhesa sem gluten sem lactose",
+		"jardineira de carne 312 kcal sem gluten e sem lactose",
+		"fusilli ao creme de bacalhau 298 kcal sem gluten e sem lactose",
+		"polpetone de patinho com macarrao 310kcal sem gluten e sem lactose",
+		"frango gratinado 312kcal sem gluten",
+		"fusilli sem gluten a bolonhesa fit plussem gluten sem lactose",
+		"macarrao sem gluten com frango ao molho branco sem glutem sem lactose",
+		"file mignon e arroz a piemontese 293 kcal sem gluten e sem lactose",
+		"carne imperial",
+		"fusilli sem gluten ao molho parisiense fit plus sem lactose 214kcal",
+		"fusilli sem gluten ao molho parisiense sem lactose 214kcal",
+		"salmao grelhado ao molho de pesto 343kcal sem gluten e sem lactose",
+		"macarrao sem gluten com frango ao molho branco fit plus sem glutem sem lactose",
+		"file de frango com ervas finas 287kcal sem gluten e sem lactose",
+		"panqueca low carb a bolonhesa354 kcal sem gluten e sem lactose",
+		"salmao grelhado ao molho madeira 312 kcal sem gluten e sem lactose",
+		"panquecas a bolonhesa fit plussem guten e semlactose 321kcal",
+		"patinho moido com legumes 253 kcal sem gluten sem lactose",
+		"estrogonofe light de file mingnon353 kcal sem gluten e sem lactose",
+		"salmao grelhado ao molho de maracuja 309kcal sem gluten e sem lactose",
+		"isca de file ao molho madeira 353kcal sem gluten e sem lactose",
+		"fusilli a bolonhesa 302 kcalsem gluten e sem lactose",
+		"almondegas ao sugo 279 kcalsem gluten e sem lactose",
+		"panquecas a bolonhesa sem guten e semlactose 214kcal"
+            });
+            
+            absClusters.emplace_back("tubos conexao forro pvc",
+                                     "tubos conexao forro pvc",
+                                     "tubos conexao forro pvc");
+            absClusters.back().bulkFeed({
+                "tubo esgoto 50mm6m amanco 4381",
+		"perfil decor tipo u araforros carvalho 6m 12972",
+		"tubo esgoto 150mm6m amanco 4431",
+		"tubo soldavel 40mm6m amanco 4390",
+		"tubo esgoto 75mm6m amanco 4432",
+		"tubo soldavel 20mm6m amanco 4383",
+		"forro pvc canelado araforros br flash 5137",
+		"perfil pvc tipo u araforros 6m branco 5136",
+		"tubo soldavel 25mm6m amanco 4388",
+		"tubo esgoto 40mm6m amanco 4424"
+            });
+            
+            absClusters.emplace_back("milk shakes",
+                                     "milk shakes",
+                                     "milk shakes");
+            absClusters.back().bulkFeed({
+                "milk shake de ovomaltine de 500ml",
+		"milk shake de chocolate de 500ml",
+		"milk shake de oreo de 500ml",
+		"milk shake de cupuacu de 500ml",
+		"milk shake de morango de 500ml"
+            });
+            
+            absClusters.emplace_back("churrasco misto no balde churrasco de frango no balde salada caesar feijoada no balde strogonoff de alcatra no balde churrasco de carne de sol no balde balde na medida",
+                                     "churrasco de carne de sol no balde",
+                                     "churrasco de carne de sol no balde");
+            absClusters.back().bulkFeed({
+                "balde individual 1 pessoa brocada",
+		"balde evento prontaentrega",
+		"balde duplo 2 pessoas",
+		"churrasco misto",
+		"balde evento encomenda",
+		"balde individual 1 pessoa brocada 500 ml",
+		"churrasco de frango"
+            });
+            
+            absClusters.emplace_back("bebida bebidas refrigerante",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "cocacola 2 litros",
+		"cocacola em lata 300 ml",
+		"cocacola 1l",
+		"cocacola trad lata",
+		"cocacola 1lt",
+		"refrigerante cocacola zero em lata",
+		"cocacola zero lata 350ml",
+		"cocacola lata 350ml",
+		"cocacola stevia lata",
+		" cocacola 15l",
+		"cocacola zero lata",
+		"cocacola zero 2l",
+		"cocacola 2l",
+		"cocacola em lata 350ml",
+		"cocacola lata",
+		"cocacola em lata",
+		"cocacola zero 15l",
+		"cocacola zero 2 litros",
+		"cocacola zero em lata 300 ml",
+		"lata cocacola ",
+		" cocacola zero 15l",
+		"cocacola 15l"
+            });
+            
+            absClusters.emplace_back("burritos",
+                                     "burritos",
+                                     "burritos");
+            absClusters.back().bulkFeed({
+                "burrito pollo",
+		"burrito de soja",
+		"burrito de chilli beans",
+		"burrito de cerdo",
+		"burrito el mariachi",
+		"burrito de carne"
+            });
+            
+            absClusters.emplace_back("porcao individual prazo limitado porcoes petiscos acompanhamentos",
+                                     "petiscos",
+                                     "petiscos");
+            absClusters.back().bulkFeed({
+                "molho madeira",
+		"pure de batatas",
+		"molho de alho e oleo",
+		"arroz branco",
+		"fritas com cheddar  bacon",
+		"fritas com cheddar",
+		"batatafrita com tempero cajun",
+		"fritas basica",
+		" batata bacon flakes porcao",
+		"tiras de frango crispy",
+		"fritas",
+		"molho de alho em laminas frito",
+		"batatafrita",
+		"chilly nachos",
+		"batatas palito",
+		"onion rings",
+		"batatas fritas",
+		"batatas rusticas"
+            });
+            
+            absClusters.emplace_back("harumaki harumaki porcao de 4 unidades",
+                                     "harumaki porcao de 4 unidades",
+                                     "harumaki porcao de 4 unidades");
+            absClusters.back().bulkFeed({
+                "harumaki",
+		"harumaki romeu e julieta 3 unidades",
+		"harumaki de carne com legumes 3 unidades",
+		"harumaki de salmao 3 unidades",
+		"harumaki 4 unidades",
+		"harumaki de queijo 3 unidades",
+		"harumaki de nutela 3 unidades",
+		"harumaki de camarao 3 unidades"
+            });
+            
+            absClusters.emplace_back("lanches",
+                                     "lanches",
+                                     "lanches");
+            absClusters.back().bulkFeed({
+                "sanduiche mixtao",
+		"sanduiche xburger",
+		"sanduiche xbacon",
+		"sanduiche xcalabresa",
+		"sanduiche xfile de frango",
+		"sanduiche xtudo",
+		"sanduiche xamericano",
+		"sanduiche xsalada",
+		"sanduiche misto",
+		"sanduiche xfile de carne"
+            });
+            
+            absClusters.emplace_back("aves peixes",
+                                     "aves",
+                                     "aves");
+            absClusters.back().bulkFeed({
+                "salmao grelhado 400g de proteina 2 pessoas",
+		"salmao grelhado 600g de proteina 3 pessoas",
+		"salmao ao molho madeira 200g de proteina 1 pessoa",
+		"file de frango grelhado 400g de proteina 2 pessoas",
+		"salmao grelhado 200g",
+		"salmao ao molho de maracuja 200g de proteina 1 pessoa",
+		"salmao ao molho de maracuja 600g de proteina 3 pessoas copia",
+		"file de frango grelhado 600g de proteina 3 pessoas",
+		"salmao ao molho madeira 600g de proteina 3 pessoas",
+		"salmao ao molho de maracuja 400g de proteina 2 pessoas",
+		"salmao ao molho madeira 400g de proteina 2 pessoas"
+            });
+            
+            absClusters.emplace_back("bebida bebidas refrigerantes diversos",
+                                     "diversos",
+                                     "diversos");
+            absClusters.back().bulkFeed({
+                "refrigerante 1 litro",
+		"suco de limao 1 litro",
+		"suco de abacaxi 1 litro",
+		"suco de laranja 1 litro",
+		"suco de cupuacu 1 litro",
+		"farinha ovinha – litro",
+		"farinha ovinha c alho e cebola – litro",
+		"suco de goiaba 1 litro",
+		"caipirinha de 1 litro",
+		"suco de graviola 1 litro",
+		"suco de acerola 1 litro",
+		"suco de tapereba 1 litro",
+		"suco de maracuja 1 litro"
+            });
+            
+            absClusters.emplace_back("barcas especiais combinados e barcas",
+                                     "combinados e barcas",
+                                     "combinados e barcas");
+            absClusters.back().bulkFeed({
+                "combinado 6",
+		"pecas",
+		"combinado 40 pecas",
+		"combinado 8",
+		"rodizio em casa 30 pecas"
+            });
+            
+            absClusters.emplace_back("combos hamburgueres",
+                                     "hamburgueres",
+                                     "hamburgueres");
+            absClusters.back().bulkFeed({
+                "regional",
+		"so de bubuia",
+		"cheio de piema",
+		"so o toddy",
+		"daquele jeito",
+		"chibata no balde",
+		"combo miguelagem  3 hamburgueres de 120g  batata  refrigerante de 2 litros  molho  maionese caseira",
+		"macetao",
+		"miguelagem",
+		"combo miguelagem 2  2 hamburgueres de 120g  batata  refrigerante  molho  maionese caseira",
+		"jitinho",
+		"cheio de caqueado",
+		"arrochado"
+            });
+            
+            absClusters.emplace_back("sucos naturais 300ml sucos naturais",
+                                     "sucos naturais 300ml",
+                                     "sucos naturais 300ml");
+            absClusters.back().bulkFeed({
+                "limonada",
+		"morango",
+		"melancia com gengibre",
+		"graviola",
+		"maracuja",
+		"cha mate natural one 300ml",
+		"acerola",
+		"abacaxi com hortela",
+		"cupuacu",
+		"laranja",
+		"cha verde chanberry natural one 300ml",
+		"detox"
+            });
+            
+            absClusters.emplace_back("pasteis prato aberto yakisoba salgados executivos barbaros frango  crock wings frango crocante frango  buffalo wings petiscos aves sanduiche de file de frango",
+                                     "aves",
+                                     "aves");
+            absClusters.back().bulkFeed({
+                "frango acebolado",
+		"inteiro",
+		"frango com queijo",
+		"frango crocante 800g de frango  balde familia",
+		"file de frango grelhado 200g",
+		"super frango",
+		"chicker finger",
+		"coxinha de frango",
+		"frango com abacaxi",
+		"frango acebolado com omelete",
+		"pastel de frango catupiry",
+		"big frango",
+		"yakisoba mista carne e frango",
+		"frango crocante 400g de frango  balde duplo",
+		"frango com bacon",
+		"yakisoba especial carne frango camarao",
+		"file de frango gratinado 200g",
+		"frango com omelete",
+		"file de frango gratinado file de frango grelhado 400g de proteina 2 pessoas",
+		"individual ",
+		"file de frango a parmegiana",
+		"yakisoba de frango",
+		"frango com bacon e omelete",
+		"file de frango ao alho",
+		"individual",
+		"frango xadrez",
+		"file de frango acebolado",
+		"file de frango gratinado file de frango grelhado 600g de proteina 3 pessoas",
+		"frango crocante 200g de frango  balde individual",
+		"file de frango ao molho madeira",
+		"frango acebolada com bacon"
+            });
+            
+            absClusters.emplace_back("pizze tradizionali  grande ",
+                                     "pizze tradizionali  grande ",
+                                     "pizze tradizionali  grande ");
+            absClusters.back().bulkFeed({
+                "arezzo",
+		"reggio calabria",
+		"toscana",
+		"turim",
+		"roma",
+		"piacenza",
+		"foggia",
+		"ancona",
+		"marsala",
+		"modena",
+		"bologna",
+		"pisa",
+		"pistoia"
+            });
+            
+            absClusters.emplace_back("promocoes feijoada no pote",
+                                     "feijoada no pote",
+                                     "feijoada no pote");
+            absClusters.back().bulkFeed({
+                "feijoada no pote  media para 6 pessoas",
+		"banda media  de tambaqui  1 banda pequena  guarana regente 15l para 5 pessoas",
+		"marmita individual  feijoada",
+		"pote de farofa 250 ml",
+		"feijoada no pote media para 3 pessoas",
+		"banda media  de tambaqui  1 matrinxa assada  guarana regente 15l para 5 pessoas"
+            });
+            
+            absClusters.emplace_back("sashimi porcao 6 cortes sashimi",
+                                     "sashimi",
+                                     "sashimi");
+            absClusters.back().bulkFeed({
+                "sashimi de salmao 10 pecas",
+		"sashimi de salmao 4 pecas",
+		"sashimi 12 camarao 6 unidades",
+		"sashimi de salmao 6 pecas",
+		"sashimi de salmao 12 pecas",
+		"sashimi de  kani 6 unidades",
+		"sashimi salmao",
+		"sashimi de  kani 12 unidades",
+		"sashimi de salmao 8 pecas",
+		"sashimi de camarao alho e oleo 12 unidades",
+		"sashimi de camarao 12 unidades",
+		"mini joy",
+		"kani kama"
+            });
+            
+            absClusters.emplace_back("bebidas",
+                                     "bebidas",
+                                     "bebidas");
+            absClusters.back().bulkFeed({
+                "guarana antartica zero lata",
+		"guarana antartica lata",
+		"guarana antartica  lata",
+		"guarana antartica em lata 350ml copia",
+		"cerveja antartica lata",
+		"guarana antartica 2l",
+		"refrigerante guarana antartica em lata",
+		"guarana regente 15l",
+		"refrigerante guarana antartica zero em lata",
+		"guarana antartica zero 2l"
+            });
+            
+            absClusters.emplace_back("porcao fries porcao individual porcoes",
+                                     "porcoes",
+                                     "porcoes");
+            absClusters.back().bulkFeed({
+                "porcao de lula empanada 12 unidades",
+		"porcao de camarao empanado 12 unidades",
+		"porcao de laranja",
+		"porcao fries g",
+		"porcao de maionese",
+		"porcao de cream cheese",
+		"tempura de camarao",
+		"arroz branco",
+		"porcao de linguica toscana 4 unidade",
+		"farinha do uarini",
+		"porcao onion rings m",
+		"porcao de cebola empanada",
+		"baiao de dois",
+		"porcao de feijao foguinho",
+		"porcao de arroz",
+		"porcao de torresmo de 150 gramas",
+		"porcao de bolinho de salmao 12 unidades",
+		"porcao de alho torrado",
+		"porcao de arroz com brocolis",
+		"porcao de cebolinha",
+		"porcao de linguica de frango 4 unidades",
+		"porcao de pao",
+		"porcao de feijao tropeiro",
+		"porcao de gohan",
+		"porcao de bolinho de bacalhau 12 unidades",
+		"porcao de farofa",
+		"porcao de torresmo de 75 gramas",
+		"porcao de carne de sol 100 gramas",
+		"porcao fries m",
+		"porcao de frango desossado 100 gramas",
+		"bolinhos de bacalhau",
+		"porcao de vinagrete"
+            });
+            
+            absClusters.emplace_back("pizzas brotinho pizza grande pasteis pizza",
+                                     "pizza",
+                                     "pizza");
+            absClusters.back().bulkFeed({
+                "pizza grande portuguesa",
+		"banana",
+		"file de frango desfiado",
+		"atum",
+		"margarita",
+		"file mignon",
+		"pizza bacon",
+		"pizza calabresa",
+		"napolitana",
+		"calabresa",
+		"pizza queijo",
+		"alho e oleo",
+		"europeia",
+		"mussarela",
+		"pizza de presunto",
+		"file de frango com catupiry",
+		"3 queijos",
+		"bacon",
+		"jardineira",
+		"carioca",
+		"presunto",
+		"pizza grande de presunto",
+		"francesa",
+		"pizza grande de calabresa",
+		"pizza grande de mussarela",
+		"portuguesa",
+		"pastel de pizza",
+		"file mignon com catupiry",
+		"havaiana"
+            });
+            
+            absClusters.emplace_back("pratos individuais pratos executivos pratos comerciais pratos quentes",
+                                     "pratos executivos",
+                                     "pratos executivos");
+            absClusters.back().bulkFeed({
+                "carne de sol na chapa",
+		"figado acebolado",
+		"file de frango grelhado",
+		"linguica de frango frita",
+		"isca mista",
+		"chef 02 picanha",
+		"chef 02 carne de sol",
+		"contra file na chapa",
+		"isca de carne",
+		"isca de frango",
+		"calabresa com ovo",
+		"camarao empanado",
+		"chef 02 alcatra",
+		"salmao grelhado",
+		"picadinho",
+		"panqueca de carne"
+            });
+            
+            absClusters.emplace_back("prato aberto sanduiche de file mignon file mignon promocoes e filex",
+                                     "sanduiche de file mignon",
+                                     "sanduiche de file mignon");
+            absClusters.back().bulkFeed({
+                "filex com bacon",
+		"file mignon com fritas",
+		"file mignon acebolado 2 pessoas",
+		"filex acebolado com omelete ",
+		"trilex",
+		"file mignon ao molho madeira 2 pessoas",
+		"super filex ",
+		"filex acebolado",
+		"file de abacaxi",
+		"super filex",
+		"file mignon a parmegianna 2 pessoas",
+		"filex de queijo",
+		"big filex",
+		"filex omelete",
+		"filex com bacon e omelete",
+		"file de frango com fritas",
+		"filex acebolado com bacon",
+		"calabresa com fritas"
+            });
+            
+            absClusters.emplace_back("combo combos",
+                                     "combo",
+                                     "combo");
+            absClusters.back().bulkFeed({
+                "combo bb melt  refri lata  batata p",
+		"combo bb melt  refri lata  onion rings p",
+		"combo bbcheddar  refri lata  batata p",
+		"combo regional  3 hamburgueres de 80g  batata  refri de 2 litros  molho  maionese caseira",
+		"promo combo bb smash  refri lata  batata p"
+            });
+            
+            absClusters.emplace_back("burguers combos burguers premium",
+                                     "combos",
+                                     "combos");
+            absClusters.back().bulkFeed({
+                "burguer duplo",
+		"drogo burguer",
+		"barbaro´s burguer",
+		"hodor bugue",
+		"barbaro´s chicken",
+		"little finger",
+		"barbaro´s filet",
+		"grey joy"
+            });
+            
+            absClusters.emplace_back("promocao tintas bebidas hotdogs refrigerante",
+                                     "refrigerante",
+                                     "refrigerante");
+            absClusters.back().bulkFeed({
+                "xsalada  2 kikao  guarana real 2 litros",
+		"selador acrilico hidracor 18 litros 3763",
+		"hotdog classico",
+		"massa acrilica hidracor 18 litros 14933",
+		"tinta acrilica rendmais  fosca 18 litros branco 2025",
+		"tinta acrilica extralates fosca 18 litros branco 14891",
+		"refrigerante guarana real classico de 2 litros",
+		"quarana real 2l",
+		"real gold",
+		"refrigerante guarana real em lata"
+            });
+            
+            absClusters.emplace_back("bebida bebidas",
+                                     "bebida",
+                                     "bebida");
+            absClusters.back().bulkFeed({
+                "refrigerante coca cola zero em lata de 350 ml",
+		"coca cola 2 lts",
+		"refrigerante pepsi em lata de 350 ml",
+		"coca cola",
+		"coca cola de 1l",
+		"coca cola em lata",
+		"refrigerante cocacola em lata 350 ml",
+		"coca cola zero lata",
+		"coca cola lata de 350 ml",
+		"refrigerante coca cola em lata",
+		"refrigerante coca cola zero em lata",
+		"lata  coca zero ",
+		"refrigerante soda em lata de 350 ml",
+		"coca cola de 2l",
+		"refrigerante coca cola em lata de 350 ml",
+		"coca cola 2l",
+		"guarana lata de 350 ml"
+            });
+            
+            absClusters.emplace_back("promocao promocao do dia promocao de combos",
+                                     "promocao do dia",
+                                     "promocao do dia");
+            absClusters.back().bulkFeed({
+                "imperdivel leve tres trufas e pague apenas por duas valido para pagamentos a vista",
+		"promocao carne de sol  1 refrigerante",
+		"pague 5 e leve 6 longneck",
+		"combinado 01  picanha",
+		"kikao especial 30 off",
+		"classicos  2 antarctica lata 15 off",
+		"super combo duas cocacolas ",
+		"medalhao especial para 2 pessoas",
+		"combinado 02  alcatra",
+		"triplo wtf burger",
+		"combo crush ",
+		"triplo american burger",
+		"combinado 01  alcatra",
+		"combinado 02  picanha",
+		"combinado 01  carne de sol",
+		"combinado 02  carne de sol",
+		"burger em dobro",
+		"combo friends",
+		"crispy chicx 20off"
+            });
+            
+            absClusters.emplace_back("porcoes avulsas saladas acompanhamentos",
+                                     "porcoes avulsas",
+                                     "porcoes avulsas");
+            absClusters.back().bulkFeed({
+                "legumes salteados no azeite",
+		"legumes salteados na manteiga",
+		"legumes  salteados no azeite 100g",
+		"legumes ao vapor cenoura brocolis e couveflor",
+		"legumes ao vapor 200g",
+		"legumes  salteados no azeite 200g",
+		"legumes ao vapor 100g",
+		"legumes salteados no azeite extra virgem"
+            });
+            
+            absClusters.emplace_back("molhos",
+                                     "molhos",
+                                     "molhos");
+            absClusters.back().bulkFeed({
+                "moionese ",
+		"sweet chilli",
+		"barbeceu",
+		"teriyaki",
+		"barbeceu spice ",
+		"blue cheese"
+            });
+            

@@ -41,15 +41,18 @@ model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
 model.fit(X)
 
 documents['cluster'] = model.labels_
+print(documents);
 
 print("Prediction")
 
 Y = [phrase2vec("fanta maracujá")]
+print(Y)
 prediction = model.predict(Y)
 print(documents[documents['cluster'] == prediction[0]])
 
 print("\n")
 
 Y = [phrase2vec("pizza de beringela")]
+print(Y)
 prediction = model.predict(Y)
 print(documents[documents['cluster'] == prediction[0]])

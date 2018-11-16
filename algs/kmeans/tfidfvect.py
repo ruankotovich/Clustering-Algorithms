@@ -2,6 +2,7 @@ from gensim.models import KeyedVectors
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.metrics import adjusted_rand_score
+from nltk.corpus import stopwords
 import numpy as np
 import pandas as pd
 import string
@@ -10,12 +11,15 @@ import re
 
 start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
 
+
 def normalizer(y):
-    table = str.maketrans('','',string.punctuation)
+    table = str.maketrans('', '', string.punctuation)
     return unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c)))
+
 
 def number_removal(y):
     return start_number.sub('', y)
+
 
 def read(file):
     df = pd.read_csv(file)
@@ -25,9 +29,10 @@ def read(file):
     df['feature_vector'] = df['groname'] + ' ' + df['proname']
     return df
 
+
 documents = read('../bases/lilprobase.csv')
 
-vectorizer = TfidfVectorizer(stop_words='english')
+vectorizer = TfidfVectorizer(stop_words=stopwords.words('portuguese'))
 X = vectorizer.fit_transform(documents['feature_vector'].tolist())
 
 true_k = 100
@@ -38,22 +43,58 @@ model.fit(X)
 mydict = {i: np.where(model.labels_ == i)[0] for i in range(model.n_clusters)}
 
 # Transform this dictionary into list (if you need a list as result)
-dictlist = []
-for key, value in mydict.items():
-    temp = [key,value]
-    dictlist.append(temp)
+# dictlist = []
+# for key, value in mydict.items():
+# temp = [key,value]
+# dictlist.append(temp)
 
-print("Dictlist:")
-print(dictlist)
+# print("Dictlist:")
+# print(dictlist)
 
-print("Top terms per cluster:")
+# print("Top terms per cluster:")
+documents['group'] = model.labels_
+print("Groups:")
+print(documents.sort_values('group'))
+
+file = open('knowledgebase.cpp_part','w')
+
+cur = {'group': -1, 'groupPieceName': [], 'clusterName': '',
+       'tagName': '', 'productPieceName': []}
+for i, doc in documents.sort_values('group').T.iteritems():
+    if doc['group'] != cur['group']:
+        file.write(
+            '''
+            absClusters.emplace_back("{groupNames}",
+                                     "{groupName}",
+                                     "{tagName}");
+            absClusters.back().bulkFeed({{
+                {productNames}
+            }});
+            '''.format(
+                    groupNames=' '.join(set(cur['groupPieceName'])), 
+                    groupName=cur['clusterName'],
+                    tagName=cur['tagName'],
+                    productNames=',\n\t\t'.join( set(list(map(lambda x: '"{x}"'.format(x=x), cur['productPieceName']))) )
+                )
+        )
+
+        cur['group'] = doc['group']
+        cur['groupPieceName'] = [doc['groname']]
+        cur['productPieceName'] = [doc['proname']]
+        cur['clusterName'] = doc['groname']
+        cur['tagName'] = doc['groname']
+    else:
+        cur['groupPieceName'] += [doc['groname']]
+        cur['productPieceName'] += [doc['proname']]
+
+file.close()
+
 order_centroids = model.cluster_centers_.argsort()[:, ::-1]
 terms = vectorizer.get_feature_names()
 featuredterm = {}
 for i in range(true_k):
-    print("Cluster %d:" % i),
+    # print("Cluster %d:" % i),
     for ind in order_centroids[i, :1]:
-        print(' %s' % terms[ind]),
         featuredterm[i] = terms[ind]
     print
 
@@ -62,10 +103,8 @@ print("Prediction")
 
 Y = vectorizer.transform(["fanta maracujá"])
 prediction = model.predict(Y)
-print(featuredterm[prediction[0]])
+print(featuredterm[prediction[0]], ' ', prediction[0])
 
 Y = vectorizer.transform(["pizza de beringela"])
 prediction = model.predict(Y)
-print(featuredterm[prediction[0]])
-
-
+print(featuredterm[prediction[0]], ' ', prediction[0])
