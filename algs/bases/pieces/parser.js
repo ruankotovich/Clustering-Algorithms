@@ -7,7 +7,7 @@ const path = require('path');
     for (let file of fs.readdirSync('./').filter((k) => path.extname(k).toLowerCase() === '.piece')) {
         let originalObject = JSON.parse(fs.readFileSync(file, 'utf-8'));
         testCollection.push({
-            bussiness: originalObject.business,
+            business: originalObject.business,
             input: originalObject.text,
             expected: originalObject.entities.map(
                 el => el.label
