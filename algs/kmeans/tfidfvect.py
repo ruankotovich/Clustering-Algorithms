@@ -13,9 +13,8 @@ start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
 
 
 def normalizer(y):
-    table = str.maketrans('', '', string.punctuation)
-    return unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c)))
-
+    table = str.maketrans('','',string.punctuation)
+    return re.sub('(  +|^ +| +$)','',unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c))).lower())
 
 def number_removal(y):
     return start_number.sub('', y)
@@ -26,7 +25,7 @@ def read(file):
     df['id'] = df.index
     df['proname'] = df['proname'].apply(normalizer).apply(number_removal)
     df['groname'] = df['groname'].apply(normalizer).apply(number_removal)
-    df['feature_vector'] = df['groname'] + ' ' + df['proname']
+    df['feature_vector'] = df['groname'].apply(normalizer).apply(number_removal) + ' ' + df['proname'].apply(normalizer).apply(number_removal)
     return df
 
 
@@ -101,7 +100,7 @@ for i in range(true_k):
 print("\n")
 print("Prediction")
 
-Y = vectorizer.transform(["fanta maracujá"])
+Y = vectorizer.transform(["fanta laranja"])
 prediction = model.predict(Y)
 print(featuredterm[prediction[0]], ' ', prediction[0])
 

@@ -3,12 +3,13 @@ import numpy as np
 import string
 import unicodedata
 import re
+import json
 
 start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
 
 def normalizer(y):
     table = str.maketrans('','',string.punctuation)
-    return unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c)))
+    return re.sub('(  +|^ +| +$)','',unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c))).lower())
 
 def number_removal(y):
     return start_number.sub('', y)
@@ -21,4 +22,11 @@ def read(file):
     df['groname'] = df['groname'].apply(normalizer).apply(number_removal)
     return df
 
-read('lilprobase.csv')
+df = read('lilprobase.csv')
+
+l = list(set(df['groname']))
+l.sort()
+
+f = open('classes.json', 'w')
+f.write(json.dumps(l))
+f.close()

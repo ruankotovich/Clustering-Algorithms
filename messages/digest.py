@@ -3,6 +3,7 @@ import json
 import os
 
 messages = []
+store_messages = []
 clazzes = []
 needToLoad = True
 
@@ -12,7 +13,9 @@ if(not(os.path.exists('.step') and os.path.exists('labeledsets.json'))):
 
         for pos, row in enumerate(reader):
             try:
+
                 data = json.loads(row[5], 'utf-8')
+                to = json.loads(row[4], 'utf-8')
 
                 if 'blink' in data:
                     del data['blink']
@@ -26,10 +29,12 @@ if(not(os.path.exists('.step') and os.path.exists('labeledsets.json'))):
                 elif type(data) == type({})and 'message' in data:
                     text = data['message']
                     messages += [str(text)]
+                    store_messages += [{'business': int(to), 'text': str(text)}]
                 elif type(data) == type(u'') and 'message' in data:
                     data = json.loads(data, 'utf-8')
                     text = data['message']
                     messages += [str(text)]
+                    store_messages += [{'business': int(to), 'text': str(text)}]
 
             except ValueError as e:
                 pass
@@ -51,7 +56,10 @@ else:
 
 if(needToLoad):
     unique_message = list(set(messages))
-    print('Unique messsages:',len(unique_message))
+    unique_message_and_business =  list({v['text']:v for v in store_messages}.values())
+    f = open('dump.json', 'w')
+    f.write(json.dumps(unique_message_and_business))
+    print('Unique messsages:', len(unique_message))
 
 file = open('labeledset.txt', 'w')
 closedByStep = False

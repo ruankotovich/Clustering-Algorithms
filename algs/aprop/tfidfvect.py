@@ -16,7 +16,7 @@ start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
 
 def normalizer(y):
     table = str.maketrans('','',string.punctuation)
-    return unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c)))
+    return re.sub('(  +|^ +| +$)','',unicodedata.normalize('NFC', ''.join(c for c in unicodedata.normalize('NFD', y.lower().translate(table)) if not unicodedata.combining(c))).lower())
 
 def number_removal(y):
     return start_number.sub('', y)
