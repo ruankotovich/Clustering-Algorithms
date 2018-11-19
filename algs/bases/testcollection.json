@@ -1,6 +1,6 @@
 [
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma Fanta de 350",
     "expected": [
       "bebida",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Minha amiga mandou foto da promocao de pizzas de 40 por 20 sabado e domingo",
     "expected": [
       "pizza",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "vocês vendem suco ?",
     "expected": [
       "bebida",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma PIZZA DE CALABRESA SEM CALABRESA",
     "expected": [
       "pizza",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza 4 queijos e uma Marguerita grande",
     "expected": [
       "pizza",
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Burgers",
     "expected": [
       "batata frita",
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza 4 queijos e uma de marguerita",
     "expected": [
       "pizza",
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza doce",
     "expected": [
       "pizza",
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade calabresa",
     "expected": [
       "pizza",
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Passar e retirar pizzas as 19.30hs",
     "expected": [
       "pizza",
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza de calabreza e 1 coca",
     "expected": [
       "pizza",
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero pizza de calabresa",
     "expected": [
       "pizza",
@@ -254,7 +254,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Eu quero uma pizza de shitake",
     "expected": [
       "pizza",
@@ -274,7 +274,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "@Edleno disse:<br>Quero uma pizza metade calabresa metade berinjela<br>--",
     "expected": [
       "pizza",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "2 pizzas",
     "expected": [
       "pizza",
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "quero um temaki",
     "expected": [
       "a moda da casa",
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "bussiness": 7,
+    "business": 7,
     "input": "carne de sol",
     "expected": [
       "a moda da casa",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Uma pizza grande metade Modena metade bologna",
     "expected": [
       "pizza",
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero 1 pizza pequena de peperoni",
     "expected": [
       "pizza",
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Posso pedir a pizza digitando direto por aqui ?",
     "expected": [
       "pizza",
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Gostaria de pedir 2 pizzas de calabresa e 1 refrigerante de 2 litros sabor laranja",
     "expected": [
       "bebida",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quais as pizzas salgadas grandes",
     "expected": [
       "pizza",
@@ -490,7 +490,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Falar com o Mindu burger",
     "expected": [
       "batata frita",
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Dois Sucos de melancia com gengibre",
     "expected": [
       "bebida",
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "1 fanta de 2 litros \n2 pizzas de calabresa",
     "expected": [
       "pizza",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza duas metades",
     "expected": [
       "pizza",
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero uma x-salada",
     "expected": [
       "batata frita",
@@ -636,7 +636,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza barata",
     "expected": [
       "pizza",
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza Toscana grande",
     "expected": [
       "pizza",
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e um suco de laranja",
     "expected": [
       "bebida",
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Obgda pelo atendimento!<br>A melhor pizza!😍",
     "expected": [
       "pizza",
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "@Bruno disse:<br>Rua Misushiro, 170, Condomínio Flex Parque Dez, Apto 71 Torre 1<br>--",
     "expected": [
       "a moda da casa",
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quanto está a pizza grande hj???",
     "expected": [
       "pizza",
@@ -760,7 +760,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Suco",
     "expected": [
       "bebida",
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero pizza grande",
     "expected": [
       "pizza",
@@ -794,7 +794,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza de queijo",
     "expected": [
       "pizza",
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero um suco de uva",
     "expected": [
       "bebida",
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza grande, metade frango com catupiri metade 4 queijos",
     "expected": [
       "pizza",
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "bussiness": 24,
+    "business": 24,
     "input": "@Mirleide disse:<br>Blz. Cliquei num anuncio de sushi e deu erro. Saiu do teewa<br>--<br>Vamos ver isso, obrigado pelo retorno",
     "expected": [
       "a moda da casa",
@@ -878,7 +878,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos, uma pizza de calabresa e uma coca de 2 liytos",
     "expected": [
       "pizza",
@@ -898,7 +898,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem algo salgado?",
     "expected": [
       "batata frita",
@@ -944,14 +944,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "eu quero tapioca com queijo e presunto",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Por exemplo, o Távola fez pizza com 50%, e isso acabou viralizando em diversos grupos de WhatsApp e nas redes sociais",
     "expected": [
       "pizza",
@@ -971,7 +971,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizza de calabresa e uma coca em lata",
     "expected": [
       "pizza",
@@ -991,7 +991,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza 4 queijos e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -1011,7 +1011,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "pizza barata",
     "expected": [
       "pizza",
@@ -1031,7 +1031,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresA uma 4 queijos e uma coca 2 litros",
     "expected": [
       "pizza",
@@ -1051,7 +1051,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa e berinjela",
     "expected": [
       "pizza",
@@ -1071,7 +1071,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "duas pizzas de calabersa",
     "expected": [
       "pizza",
@@ -1091,7 +1091,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma coca",
     "expected": [
       "pizza",
@@ -1111,7 +1111,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quais as pizzas mais caras",
     "expected": [
       "pizza",
@@ -1131,7 +1131,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Queria 2 pizzas de calabresa e três cocas de 2 litros",
     "expected": [
       "pizza",
@@ -1151,7 +1151,7 @@
     ]
   },
   {
-    "bussiness": 7,
+    "business": 7,
     "input": "Quero ver a opção churrasco de carne de sol no balde",
     "expected": [
       "a moda da casa",
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizzasbgrande duas metades",
     "expected": [
       "pizza",
@@ -1223,7 +1223,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza de muçarela",
     "expected": [
       "pizza",
@@ -1243,7 +1243,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "eu nao desisti de nenhum pedido eu pedi dois sanduiches (sinistro e Alpha) por favor",
     "expected": [
       "batata frita",
@@ -1289,7 +1289,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza de calabresa e uma coca cola",
     "expected": [
       "pizza",
@@ -1309,7 +1309,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de dois sabores",
     "expected": [
       "pizza",
@@ -1329,7 +1329,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "Quero um sanduíche",
     "expected": [
       "batata frita",
@@ -1375,7 +1375,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza metade calabresa metade mussarela",
     "expected": [
       "pizza",
@@ -1395,7 +1395,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quer um suco de laranja",
     "expected": [
       "bebida",
@@ -1409,7 +1409,7 @@
     ]
   },
   {
-    "bussiness": 63,
+    "business": 63,
     "input": "Quero um burger",
     "expected": [
       "batata frita",
@@ -1455,7 +1455,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Sabores de pizza grande",
     "expected": [
       "pizza",
@@ -1475,7 +1475,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de frango com catupiry",
     "expected": [
       "pizza",
@@ -1495,7 +1495,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "São dois sanduíches matadores",
     "expected": [
       "batata frita",
@@ -1541,7 +1541,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza muzzarela",
     "expected": [
       "pizza",
@@ -1561,7 +1561,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "1 pizza grande de Marguerita e 1 pizza grande rei Arthur",
     "expected": [
       "pizza",
@@ -1581,7 +1581,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Carne de sol",
     "expected": [
       "a moda da casa",
@@ -1633,7 +1633,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Mindu burger",
     "expected": [
       "batata frita",
@@ -1679,7 +1679,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Sanduíche de calabresa",
     "expected": [
       "batata frita",
@@ -1725,7 +1725,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade portuguesa",
     "expected": [
       "pizza",
@@ -1745,7 +1745,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande metade peperone metade foguinho sem cebola e com muçarela.",
     "expected": [
       "pizza",
@@ -1765,7 +1765,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "refri",
     "expected": [
       "bebida",
@@ -1779,7 +1779,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero 1 pizza grande de peperoni",
     "expected": [
       "pizza",
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A pizzaria já está funcionando",
     "expected": [
       "pizza",
@@ -1819,7 +1819,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria de pedir uma pizza grande.",
     "expected": [
       "pizza",
@@ -1839,7 +1839,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "queria ver as bebidas",
     "expected": [
       "bebida",
@@ -1853,7 +1853,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza duas metade",
     "expected": [
       "pizza",
@@ -1873,7 +1873,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Quero algo com carne",
     "expected": [
       "a moda da casa",
@@ -1925,7 +1925,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Remova uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -1945,7 +1945,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizzas salgadas",
     "expected": [
       "pizza",
@@ -1965,7 +1965,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza portuguesa grande e uma Coca-Cola de 2 litros",
     "expected": [
       "pizza",
@@ -1985,7 +1985,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Eu acabei de fazer um pedido de quase cem reais atraves do ifood so gostaria de completar o pedido com esse sanduiche de 10,50",
     "expected": [
       "batata frita",
@@ -2031,7 +2031,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "pizza atum",
     "expected": [
       "pizza",
@@ -2051,7 +2051,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande metade peperone e metade foguinho com queijo e sem cebola.",
     "expected": [
       "pizza",
@@ -2071,7 +2071,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Tem carne?",
     "expected": [
       "a moda da casa",
@@ -2123,7 +2123,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza 4 queijos e uma foguinho",
     "expected": [
       "pizza",
@@ -2143,7 +2143,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza especial grande",
     "expected": [
       "pizza",
@@ -2163,7 +2163,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem pizza sem queijo?",
     "expected": [
       "pizza",
@@ -2183,7 +2183,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "2 pizzas pequenas de calabresa",
     "expected": [
       "pizza",
@@ -2203,7 +2203,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Burger",
     "expected": [
       "batata frita",
@@ -2249,7 +2249,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizzas",
     "expected": [
       "pizza",
@@ -2269,7 +2269,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Retirar pizza",
     "expected": [
       "pizza",
@@ -2289,7 +2289,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza metade calabresa metade atum",
     "expected": [
       "pizza",
@@ -2309,7 +2309,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Queria a pizza da promoção",
     "expected": [
       "pizza",
@@ -2329,7 +2329,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza grandes metade calabresa  metade mussarela",
     "expected": [
       "pizza",
@@ -2349,7 +2349,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero um x-tudo",
     "expected": [
       "batata frita",
@@ -2395,7 +2395,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "quero um sanduíche de 15cm",
     "expected": [
       "batata frita",
@@ -2441,7 +2441,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero um refrigerante",
     "expected": [
       "bebida",
@@ -2455,7 +2455,7 @@
     ]
   },
   {
-    "bussiness": 27,
+    "business": 27,
     "input": "Tem algo com Burguer",
     "expected": [
       "batata frita",
@@ -2501,7 +2501,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero 2 pizzas de calabresa e três cocas de 2 litros",
     "expected": [
       "pizza",
@@ -2521,7 +2521,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Parabéns pelos sandubas. Todos deliciosos. Viramos clientes. Obrigada.",
     "expected": [
       "batata frita",
@@ -2567,7 +2567,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "@Marina disse:<br>Pizza grande, frango com catupiri e 4 queijos",
     "expected": [
       "pizza",
@@ -2587,7 +2587,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade calabresa metade beringela",
     "expected": [
       "pizza",
@@ -2607,7 +2607,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Duas pizzas",
     "expected": [
       "pizza",
@@ -2627,7 +2627,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Me dá uma pizza de calabresa grande e uma Coca",
     "expected": [
       "pizza",
@@ -2647,7 +2647,7 @@
     ]
   },
   {
-    "bussiness": 63,
+    "business": 63,
     "input": "Quero um refrigerante em lata fanta",
     "expected": [
       "bebida",
@@ -2661,7 +2661,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem suco ?",
     "expected": [
       "bebida",
@@ -2675,7 +2675,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza de calabresa",
     "expected": [
       "pizza",
@@ -2695,7 +2695,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza. De. 4. Queijos",
     "expected": [
       "pizza",
@@ -2715,7 +2715,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero duas Pizza quatro queijos",
     "expected": [
       "pizza",
@@ -2735,7 +2735,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizza\nDe\n4\nQueijos",
     "expected": [
       "pizza",
@@ -2755,7 +2755,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Oi Boa noite. Gostaria de pedir uma pizza grande sabor calabresa e sabor portuguesa (metades).",
     "expected": [
       "pizza",
@@ -2775,7 +2775,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa, uma pizza de 4 queijos e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -2795,7 +2795,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Não tem pizza de calabresa sem cebola?",
     "expected": [
       "pizza",
@@ -2815,7 +2815,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas de calabresa",
     "expected": [
       "pizza",
@@ -2835,7 +2835,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza grande de calabresa",
     "expected": [
       "pizza",
@@ -2855,7 +2855,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Desde aquela pizza de calabresa",
     "expected": [
       "pizza",
@@ -2875,7 +2875,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Quero um sanduba da promoção",
     "expected": [
       "batata frita",
@@ -2921,7 +2921,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de banana",
     "expected": [
       "pizza",
@@ -2941,7 +2941,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "É possível pedir 1 pizza com 2 sabores?",
     "expected": [
       "pizza",
@@ -2961,7 +2961,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande de peperoni",
     "expected": [
       "pizza",
@@ -2981,7 +2981,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "sanduiches 15cm",
     "expected": [
       "batata frita",
@@ -3027,7 +3027,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "tem pizzas",
     "expected": [
       "pizza",
@@ -3047,7 +3047,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade tavola metade calabresa",
     "expected": [
       "pizza",
@@ -3067,7 +3067,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza grande metade calabresa metade beringela",
     "expected": [
       "pizza",
@@ -3087,7 +3087,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Suco de maracujá",
     "expected": [
       "bebida",
@@ -3101,7 +3101,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Queria uma pizza de calabresa e duas coxas de 2l",
     "expected": [
       "pizza",
@@ -3121,7 +3121,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Sanduíche",
     "expected": [
       "batata frita",
@@ -3167,7 +3167,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Mostre-me os sabores de pizza",
     "expected": [
       "pizza",
@@ -3187,7 +3187,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Queria uma pizza de calabresa e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -3207,7 +3207,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "1 pizza pequena de peperoni",
     "expected": [
       "pizza",
@@ -3227,7 +3227,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Calzones",
     "expected": [
       "batata frita",
@@ -3273,7 +3273,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá um suco de limão e uma pizza de calabresa",
     "expected": [
       "bebida",
@@ -3287,7 +3287,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma fanta de 1.5 litros",
     "expected": [
       "bebida",
@@ -3301,7 +3301,7 @@
     ]
   },
   {
-    "bussiness": 39,
+    "business": 39,
     "input": "Ola, vocês tem rodízio de sushi? Quais os dias? Qual o preço?",
     "expected": [
       "a moda da casa",
@@ -3331,7 +3331,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -3351,7 +3351,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Tem pizza",
     "expected": [
       "pizza",
@@ -3371,7 +3371,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande com dois sabores.",
     "expected": [
       "pizza",
@@ -3391,7 +3391,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quais os refrigerantes",
     "expected": [
       "bebida",
@@ -3405,7 +3405,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza Grande, meia 4 queijos e meia portuguesa. Rua D, conjunto Parque das Palmeiras, casa 231. Flores. Próx a Av Professor Nilton Lins",
     "expected": [
       "pizza",
@@ -3425,7 +3425,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "A pizza de vocês  é  massa fina ou massa grossa",
     "expected": [
       "pizza",
@@ -3445,7 +3445,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza camponesa e uma maeguerita",
     "expected": [
       "pizza",
@@ -3465,7 +3465,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa uma de 4 queijos e uma  coca de 2 litros",
     "expected": [
       "pizza",
@@ -3485,7 +3485,7 @@
     ]
   },
   {
-    "bussiness": 20,
+    "business": 20,
     "input": "Quero a pizza brownie grande",
     "expected": [
       "pizza",
@@ -3505,7 +3505,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza de shitake",
     "expected": [
       "pizza",
@@ -3525,7 +3525,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas de calabresa e água",
     "expected": [
       "pizza",
@@ -3545,7 +3545,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero pizza",
     "expected": [
       "pizza",
@@ -3565,7 +3565,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos e uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -3585,7 +3585,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero dois x-saladas",
     "expected": [
       "batata frita",
@@ -3631,7 +3631,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "Tem x-salada",
     "expected": [
       "batata frita",
@@ -3677,7 +3677,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma coca cola",
     "expected": [
       "pizza",
@@ -3697,7 +3697,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "@Edleno disse: \n\"Quero uma pizza de 4 queijos e uma pizza de calabresa\"\n--",
     "expected": [
       "pizza",
@@ -3717,7 +3717,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza 4 queijos e uma Marguerita grandes",
     "expected": [
       "pizza",
@@ -3737,7 +3737,7 @@
     ]
   },
   {
-    "bussiness": 44,
+    "business": 44,
     "input": "Quero ver o filé de peixe mais barato",
     "expected": [
       "a moda da casa",
@@ -3789,7 +3789,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "2 pizzas de calabresa e água",
     "expected": [
       "pizza",
@@ -3809,7 +3809,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza grande meio a meio",
     "expected": [
       "pizza",
@@ -3829,7 +3829,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Duas pizzas de calabresa",
     "expected": [
       "pizza",
@@ -3849,7 +3849,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza de 4 queijos e uma pizza Marguerita grande",
     "expected": [
       "pizza",
@@ -3869,7 +3869,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e um coca em lata",
     "expected": [
       "pizza",
@@ -3889,7 +3889,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizzas doces pequenas",
     "expected": [
       "pizza",
@@ -3909,7 +3909,7 @@
     ]
   },
   {
-    "bussiness": 41,
+    "business": 41,
     "input": "Pizzas",
     "expected": [
       "pizza",
@@ -3929,7 +3929,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Tem pizza de frango com catupiry?",
     "expected": [
       "pizza",
@@ -3949,7 +3949,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "tem pizza de calabresa",
     "expected": [
       "pizza",
@@ -3969,7 +3969,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Cancela uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -3989,7 +3989,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Tem sushi",
     "expected": [
       "a moda da casa",
@@ -4019,7 +4019,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma Pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -4039,7 +4039,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Rua Misushiro, 170, Condomínio Flex Parque Dez, Apto 71 Torre 1",
     "expected": [
       "a moda da casa",
@@ -4069,7 +4069,7 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Suco de melancia",
     "expected": [
       "bebida",
@@ -4083,7 +4083,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Boa noite, gostaria de perguntar se vocês trabalham com Uramaki",
     "expected": [
       "a moda da casa",
@@ -4113,7 +4113,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande de frango com catupiry por favor",
     "expected": [
       "pizza",
@@ -4133,14 +4133,14 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem tapioca doce ?",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizzas duas metades",
     "expected": [
       "pizza",
@@ -4160,7 +4160,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -4180,7 +4180,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "@Guilherme disse:<br>quero 1 Fritas com Batata Frita OOH Yes! Big Fries (Porção para 2 pessoas) e com Molho do Chefe Molho WTF (Levemente Picante).<br>--<br>Sanduíche sem picles",
     "expected": [
       "batata frita",
@@ -4226,7 +4226,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Sanduba clandestino",
     "expected": [
       "batata frita",
@@ -4272,7 +4272,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa grabde",
     "expected": [
       "pizza",
@@ -4292,7 +4292,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma coca de 2l",
     "expected": [
       "pizza",
@@ -4312,7 +4312,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "@Gerson disse:<br>1 pizza Portuguesa<br>1 pizza Atum (com queijo).<br>--",
     "expected": [
       "pizza",
@@ -4332,7 +4332,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "@Edleno disse:<br>Quero uma pizza de 4 queijos e uma pizza de calabresa<br>--",
     "expected": [
       "pizza",
@@ -4352,7 +4352,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Gostaria de ver as opcoes de hamburguer",
     "expected": [
       "batata frita",
@@ -4398,7 +4398,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tira a pizza de calabresa",
     "expected": [
       "pizza",
@@ -4418,7 +4418,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 1 pizza calabresa",
     "expected": [
       "pizza",
@@ -4438,7 +4438,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Posso buscar a pizza no estabelecimento?",
     "expected": [
       "pizza",
@@ -4458,7 +4458,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Gostaria desse prato, bem passado e pouco sal",
     "expected": [
       "a moda da casa",
@@ -4510,7 +4510,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Quais os sabores de pizza?",
     "expected": [
       "pizza",
@@ -4530,7 +4530,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 2 pizzas de calabresa e água",
     "expected": [
       "pizza",
@@ -4550,7 +4550,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 2 pizzas grandes de calabresa e água",
     "expected": [
       "pizza",
@@ -4570,7 +4570,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "@Beto disse:<br>quero uma pizza 4 queijos<br>--",
     "expected": [
       "pizza",
@@ -4590,7 +4590,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma Pizza metade calabresa metade beringela",
     "expected": [
       "pizza",
@@ -4610,7 +4610,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Nós podemos ajudar pagando 10 reais por pedido, aí descontaria isso de algum prato",
     "expected": [
       "a moda da casa",
@@ -4662,7 +4662,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero um suco de limão",
     "expected": [
       "bebida",
@@ -4676,7 +4676,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade calabresa metade rei Arthur",
     "expected": [
       "pizza",
@@ -4696,7 +4696,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Escondidinho de carne na macaxeira (239 kcal) (sem glúten e sem lactose)",
     "expected": [
       "a moda da casa",
@@ -4748,7 +4748,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Me da Uma pizza meu consagrado",
     "expected": [
       "pizza",
@@ -4768,7 +4768,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Sandubas",
     "expected": [
       "batata frita",
@@ -4814,7 +4814,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "1 pizza pequena de chocolate",
     "expected": [
       "pizza",
@@ -4834,7 +4834,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "suco detox",
     "expected": [
       "bebida",
@@ -4848,7 +4848,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Sushi Hot Philadelphia",
     "expected": [
       "a moda da casa",
@@ -4878,7 +4878,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma coca de 2 litros e uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -4898,7 +4898,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Tem limite de pedido do sanduíche da promoção?",
     "expected": [
       "batata frita",
@@ -4944,7 +4944,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade frango com catupiry metade calabresa",
     "expected": [
       "pizza",
@@ -4964,7 +4964,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Como faço para pedir a promoção da pizza grande por 20 reais ?",
     "expected": [
       "pizza",
@@ -4984,7 +4984,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A pizza está demorando!",
     "expected": [
       "pizza",
@@ -5004,7 +5004,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Mostra as pizzas",
     "expected": [
       "pizza",
@@ -5024,7 +5024,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza especial",
     "expected": [
       "pizza",
@@ -5044,7 +5044,7 @@
     ]
   },
   {
-    "bussiness": 39,
+    "business": 39,
     "input": "Nova Temaki",
     "expected": [
       "a moda da casa",
@@ -5074,7 +5074,7 @@
     ]
   },
   {
-    "bussiness": 7,
+    "business": 7,
     "input": "Tem suco",
     "expected": [
       "bebida",
@@ -5088,7 +5088,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "o America Burguer, pode mudar pra hambúrguer de frango?",
     "expected": [
       "batata frita",
@@ -5134,7 +5134,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Quantos sushis veem?",
     "expected": [
       "a moda da casa",
@@ -5164,7 +5164,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de valabresa",
     "expected": [
       "pizza",
@@ -5184,7 +5184,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá uma pizza de calabresa sem cebola",
     "expected": [
       "pizza",
@@ -5204,7 +5204,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza duas metates",
     "expected": [
       "pizza",
@@ -5224,7 +5224,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizzas salgadas grandes",
     "expected": [
       "pizza",
@@ -5244,7 +5244,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Ainda tá tendo a promoção duas pizzas por 40,00?",
     "expected": [
       "pizza",
@@ -5264,7 +5264,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero a pizza de calabresa",
     "expected": [
       "pizza",
@@ -5284,7 +5284,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Cardápio sandubas",
     "expected": [
       "batata frita",
@@ -5330,7 +5330,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Tem hamburger?",
     "expected": [
       "batata frita",
@@ -5376,7 +5376,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Vocês tem refrigerante?",
     "expected": [
       "bebida",
@@ -5390,7 +5390,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "meia pizza",
     "expected": [
       "pizza",
@@ -5410,7 +5410,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "2 pizzas de muzzarela",
     "expected": [
       "pizza",
@@ -5430,7 +5430,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de mussarela",
     "expected": [
       "pizza",
@@ -5450,7 +5450,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "metade Távola (Pizza Light)",
     "expected": [
       "pizza",
@@ -5470,7 +5470,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero um x-salada",
     "expected": [
       "batata frita",
@@ -5516,7 +5516,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "sanduiche com presunto",
     "expected": [
       "batata frita",
@@ -5562,7 +5562,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "quais os pratos da promoção?",
     "expected": [
       "a moda da casa",
@@ -5614,7 +5614,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza metade calabresa metade berinjela",
     "expected": [
       "pizza",
@@ -5634,7 +5634,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizza de duas calabresas",
     "expected": [
       "pizza",
@@ -5654,7 +5654,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Quero mais 1 american burger",
     "expected": [
       "batata frita",
@@ -5700,7 +5700,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa pequena",
     "expected": [
       "pizza",
@@ -5720,7 +5720,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Em qual temaki? No Manauara tem essa promoção?",
     "expected": [
       "a moda da casa",
@@ -5750,7 +5750,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza salgada grande",
     "expected": [
       "pizza",
@@ -5770,7 +5770,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de peperone",
     "expected": [
       "pizza",
@@ -5790,7 +5790,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Suco de laranja",
     "expected": [
       "bebida",
@@ -5804,7 +5804,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizzas 2 metades",
     "expected": [
       "pizza",
@@ -5824,7 +5824,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Hamburguer",
     "expected": [
       "batata frita",
@@ -5870,7 +5870,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza 4 queijos e uma camponesa",
     "expected": [
       "pizza",
@@ -5890,7 +5890,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "que uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -5910,7 +5910,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Como posso ver os sanduíches? Cardápio apenas aparece refri, suco e água",
     "expected": [
       "batata frita",
@@ -5956,7 +5956,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "X-Salada Doggers",
     "expected": [
       "batata frita",
@@ -6002,7 +6002,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza metade atum metade calabresa",
     "expected": [
       "pizza",
@@ -6022,7 +6022,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa e um suco de laranja",
     "expected": [
       "bebida",
@@ -6036,7 +6036,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria de uma pizza grande toda calabresa. É outra pizza grande metade camponesa e metade Marguerite.",
     "expected": [
       "pizza",
@@ -6056,7 +6056,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Uramaki",
     "expected": [
       "a moda da casa",
@@ -6086,7 +6086,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quais são as pizzas pequenas",
     "expected": [
       "pizza",
@@ -6106,7 +6106,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Quantos litros tem o suco?",
     "expected": [
       "bebida",
@@ -6120,7 +6120,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza mais barata",
     "expected": [
       "pizza",
@@ -6140,7 +6140,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 2 pizzas de calabresa e 1 água",
     "expected": [
       "pizza",
@@ -6160,7 +6160,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa meu consagrado",
     "expected": [
       "pizza",
@@ -6180,7 +6180,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza grande metade calabresa e metade portuguêsa",
     "expected": [
       "pizza",
@@ -6200,7 +6200,7 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "suco de melancia com gengibre",
     "expected": [
       "bebida",
@@ -6214,7 +6214,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Vou querer a promoção de pizza grande a 27.90",
     "expected": [
       "pizza",
@@ -6234,7 +6234,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de claabrrsa",
     "expected": [
       "pizza",
@@ -6254,7 +6254,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza grande de calabresa e portuguesa",
     "expected": [
       "pizza",
@@ -6274,7 +6274,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza marguerita",
     "expected": [
       "pizza",
@@ -6294,7 +6294,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Ok, estou no aguardo para realizar um pedido de dois hamburguer",
     "expected": [
       "batata frita",
@@ -6340,7 +6340,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero um suco de laranja",
     "expected": [
       "bebida",
@@ -6354,7 +6354,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero 1 pizza grande de Marguerita",
     "expected": [
       "pizza",
@@ -6374,7 +6374,7 @@
     ]
   },
   {
-    "bussiness": 40,
+    "business": 40,
     "input": "Tamanhos de pizza",
     "expected": [
       "pizza",
@@ -6394,7 +6394,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Gostaria de uma pizza",
     "expected": [
       "pizza",
@@ -6414,7 +6414,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza de atum",
     "expected": [
       "pizza",
@@ -6434,7 +6434,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Posso pedir quantos sanduíches da promoção?",
     "expected": [
       "batata frita",
@@ -6480,7 +6480,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza grande de foguinho e uma coca em lata.",
     "expected": [
       "pizza",
@@ -6500,7 +6500,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "1 pizza calabresa",
     "expected": [
       "pizza",
@@ -6520,7 +6520,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Oi, quero uma pizza de frango com catupiry por favor",
     "expected": [
       "pizza",
@@ -6540,7 +6540,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Éu quero uma pizza grande de portuquesa",
     "expected": [
       "pizza",
@@ -6560,7 +6560,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "adicionar suco detox",
     "expected": [
       "bebida",
@@ -6574,7 +6574,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza grande meia calabresa e meia mussarela",
     "expected": [
       "pizza",
@@ -6594,7 +6594,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Promoção trio R$10,00 refri + sanduíche + batata frita",
     "expected": [
       "batata frita",
@@ -6640,7 +6640,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero um suco",
     "expected": [
       "bebida",
@@ -6654,7 +6654,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "a equipe do do Teewa me deu uma pizza por ajudá-los no suporte do aplicativo",
     "expected": [
       "pizza",
@@ -6674,7 +6674,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizzas grandes duas metades",
     "expected": [
       "pizza",
@@ -6694,7 +6694,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza 4 queijos",
     "expected": [
       "pizza",
@@ -6714,7 +6714,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza tradicional grande",
     "expected": [
       "pizza",
@@ -6734,7 +6734,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Tem promoção de pizza doce?",
     "expected": [
       "pizza",
@@ -6754,7 +6754,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza portuguesa",
     "expected": [
       "pizza",
@@ -6774,7 +6774,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza calab",
     "expected": [
       "pizza",
@@ -6794,7 +6794,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero comer pizza",
     "expected": [
       "pizza",
@@ -6814,7 +6814,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizzas grandes metade calabresa e metade mussarela",
     "expected": [
       "pizza",
@@ -6834,14 +6834,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Boa noite, vocês vendem tapioca somente com tucuma e queijo coalho?",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "@Edleno disse:<br>quero uma pizza de calabresa<br>--",
     "expected": [
       "pizza",
@@ -6861,7 +6861,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Queria 1 pizza de calabresa e uma água",
     "expected": [
       "pizza",
@@ -6881,7 +6881,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "pizza salgadas pequenas",
     "expected": [
       "pizza",
@@ -6901,7 +6901,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero 1 pizzas grande duas metades.",
     "expected": [
       "pizza",
@@ -6921,7 +6921,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "1 pizza grande de peperone",
     "expected": [
       "pizza",
@@ -6941,14 +6941,14 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "tem tapioca de tucuma e queijo",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Burguers",
     "expected": [
       "batata frita",
@@ -6994,7 +6994,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero pedir a pizza de calabresa",
     "expected": [
       "pizza",
@@ -7014,7 +7014,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Olá boa tarde! Vocês estão com promoção de pizza grande a 20,00 neste fim de semana certo?",
     "expected": [
       "pizza",
@@ -7034,7 +7034,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza 4 queijos grande",
     "expected": [
       "pizza",
@@ -7054,7 +7054,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "olá. vocês vendem suco ?",
     "expected": [
       "bebida",
@@ -7068,14 +7068,14 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "tapioca",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "quero sanduiches 15cm",
     "expected": [
       "batata frita",
@@ -7121,7 +7121,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Pratos individuais",
     "expected": [
       "a moda da casa",
@@ -7173,7 +7173,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma  pizza e um suco de limao",
     "expected": [
       "bebida",
@@ -7187,7 +7187,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza de mussarela e calabresa",
     "expected": [
       "pizza",
@@ -7207,7 +7207,7 @@
     ]
   },
   {
-    "bussiness": 44,
+    "business": 44,
     "input": "Ver Filés de peixe",
     "expected": [
       "a moda da casa",
@@ -7259,7 +7259,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria de uma pizza calabresa e uma portuguesa",
     "expected": [
       "pizza",
@@ -7279,7 +7279,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza 4 queijos e um de calabresa",
     "expected": [
       "pizza",
@@ -7299,7 +7299,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "burger",
     "expected": [
       "batata frita",
@@ -7345,7 +7345,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem pizza doce",
     "expected": [
       "pizza",
@@ -7365,7 +7365,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero um suco de tomate",
     "expected": [
       "bebida",
@@ -7379,7 +7379,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Desce àquela pizza de calabresa pro seu consagrado",
     "expected": [
       "pizza",
@@ -7399,7 +7399,7 @@
     ]
   },
   {
-    "bussiness": 27,
+    "business": 27,
     "input": "Tem algo com 01 Burguer",
     "expected": [
       "batata frita",
@@ -7445,7 +7445,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza",
     "expected": [
       "pizza",
@@ -7465,7 +7465,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza pequena 4 queijos",
     "expected": [
       "pizza",
@@ -7485,7 +7485,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza grande",
     "expected": [
       "pizza",
@@ -7505,14 +7505,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "quero uma tapioca de tucumã",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quais os sucos?",
     "expected": [
       "bebida",
@@ -7526,7 +7526,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quais sanduiches de frango vocês tem?",
     "expected": [
       "batata frita",
@@ -7572,7 +7572,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Chicken Burger",
     "expected": [
       "batata frita",
@@ -7618,7 +7618,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza grande",
     "expected": [
       "pizza",
@@ -7638,7 +7638,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de calabresa sem cebola",
     "expected": [
       "pizza",
@@ -7658,7 +7658,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 4 pizzas de calabresa e 2 águas",
     "expected": [
       "pizza",
@@ -7678,7 +7678,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "burguer",
     "expected": [
       "batata frita",
@@ -7724,7 +7724,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero ver as pizzas salgadas grandes",
     "expected": [
       "pizza",
@@ -7744,7 +7744,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Serve quantas pessoas os pratos?",
     "expected": [
       "a moda da casa",
@@ -7796,7 +7796,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza camponesa",
     "expected": [
       "pizza",
@@ -7816,7 +7816,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "quero 1 Sanduíches 15cm com Pão Pão 9 grãos Aveia e Mel e com Recheio Frango Defumado com Cream Cheese e com Queijo Cheddar e com Tostado Tostado e com Vegetais Alface e Tomate e com Molho Barbecue e com Condimentos Azeite e com Adicionais Bacon.",
     "expected": [
       "batata frita",
@@ -7862,7 +7862,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Qual o sanduíche de 12 reais?",
     "expected": [
       "batata frita",
@@ -7908,7 +7908,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "me da uma pizza romana",
     "expected": [
       "pizza",
@@ -7928,7 +7928,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Filé com   suco de morango",
     "expected": [
       "bebida",
@@ -7942,7 +7942,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa e uma pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -7962,7 +7962,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma unica pizza metade calabresa metade 4 queijos",
     "expected": [
       "pizza",
@@ -7982,7 +7982,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Quero 1 WTF burger",
     "expected": [
       "batata frita",
@@ -8028,7 +8028,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "ainda tem pizza de 27.90",
     "expected": [
       "pizza",
@@ -8048,7 +8048,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Hamburguer artesanal",
     "expected": [
       "batata frita",
@@ -8094,7 +8094,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande metade peperone metade foguinho sem cebola e com mussarela.",
     "expected": [
       "pizza",
@@ -8114,7 +8114,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero pizza de peperoni",
     "expected": [
       "pizza",
@@ -8134,7 +8134,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "tem pizza",
     "expected": [
       "pizza",
@@ -8154,7 +8154,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Quero 2 suco verdes e um salmão",
     "expected": [
       "bebida",
@@ -8168,7 +8168,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "E também uma pizza marguerita com tomate",
     "expected": [
       "pizza",
@@ -8188,7 +8188,7 @@
     ]
   },
   {
-    "bussiness": 63,
+    "business": 63,
     "input": "Quero um street Burger EUA",
     "expected": [
       "batata frita",
@@ -8234,7 +8234,7 @@
     ]
   },
   {
-    "bussiness": 15,
+    "business": 15,
     "input": "Quero um salmão grelhado 400g e um suco de cupuaçu",
     "expected": [
       "bebida",
@@ -8248,7 +8248,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Sanduiche",
     "expected": [
       "batata frita",
@@ -8294,7 +8294,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Quero um sushi",
     "expected": [
       "a moda da casa",
@@ -8324,7 +8324,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "Pizza borda",
     "expected": [
       "pizza",
@@ -8344,7 +8344,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa uma de 4 queijos uma de mussarela e uma coca de 2 littos",
     "expected": [
       "pizza",
@@ -8364,7 +8364,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Tem sushi?",
     "expected": [
       "a moda da casa",
@@ -8394,7 +8394,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "refrigerante em lata",
     "expected": [
       "bebida",
@@ -8408,7 +8408,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizzas doces",
     "expected": [
       "pizza",
@@ -8428,7 +8428,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "1 pizza calabresa e 1 coca",
     "expected": [
       "pizza",
@@ -8448,7 +8448,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Ola, boa noite! Quero uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -8468,7 +8468,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Carnes",
     "expected": [
       "a moda da casa",
@@ -8520,7 +8520,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza grande de calabresa",
     "expected": [
       "pizza",
@@ -8540,7 +8540,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza",
     "expected": [
       "pizza",
@@ -8560,7 +8560,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabrrsa",
     "expected": [
       "pizza",
@@ -8580,7 +8580,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "eu gostaria de uma pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -8600,7 +8600,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza de shitake e uma foguinho",
     "expected": [
       "pizza",
@@ -8620,7 +8620,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "remove o sanduiche do pedido por favor",
     "expected": [
       "batata frita",
@@ -8666,7 +8666,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Onde tem peixe",
     "expected": [
       "a moda da casa",
@@ -8718,7 +8718,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Sucos?",
     "expected": [
       "bebida",
@@ -8732,7 +8732,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa sem cebola",
     "expected": [
       "pizza",
@@ -8752,7 +8752,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Vai uma pizza",
     "expected": [
       "pizza",
@@ -8772,7 +8772,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Menos uma pizza",
     "expected": [
       "pizza",
@@ -8792,7 +8792,7 @@
     ]
   },
   {
-    "bussiness": 26,
+    "business": 26,
     "input": "Quero um burguer",
     "expected": [
       "batata frita",
@@ -8838,7 +8838,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza grande, metade Bologna metade Pisa",
     "expected": [
       "pizza",
@@ -8858,7 +8858,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "2 pizzas grande muzzarela",
     "expected": [
       "pizza",
@@ -8878,7 +8878,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Sem suco",
     "expected": [
       "bebida",
@@ -8892,7 +8892,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Duas pizzas grandes calabreza",
     "expected": [
       "pizza",
@@ -8912,7 +8912,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero um milkshake",
     "expected": [
       "bebida",
@@ -8926,7 +8926,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Gostaria de duas pizzas de calabresa e uma coca cola de dois litros por favor.",
     "expected": [
       "pizza",
@@ -8946,7 +8946,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizzas grande duas metades",
     "expected": [
       "pizza",
@@ -8966,7 +8966,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "como coloco uma pizza no meu pedido?",
     "expected": [
       "pizza",
@@ -8986,7 +8986,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza doce",
     "expected": [
       "pizza",
@@ -9006,7 +9006,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Tem suco?",
     "expected": [
       "bebida",
@@ -9020,7 +9020,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa geande",
     "expected": [
       "pizza",
@@ -9040,7 +9040,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza duas metades",
     "expected": [
       "pizza",
@@ -9060,7 +9060,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A pizza de portuguesa grande ainda está de 27,90????",
     "expected": [
       "pizza",
@@ -9080,7 +9080,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Eu que agradeço, adorei o X-tudo ;D",
     "expected": [
       "batata frita",
@@ -9126,7 +9126,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quais os sabores de pizzas",
     "expected": [
       "pizza",
@@ -9146,7 +9146,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza de calabreza",
     "expected": [
       "pizza",
@@ -9166,7 +9166,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza metade calabresa metade beringela",
     "expected": [
       "pizza",
@@ -9186,7 +9186,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Suco de luva",
     "expected": [
       "bebida",
@@ -9200,7 +9200,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "vai meu consagrado, desce uma pizza ai",
     "expected": [
       "pizza",
@@ -9220,7 +9220,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza de calabresa",
     "expected": [
       "pizza",
@@ -9240,7 +9240,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas de calabresa e duas águas",
     "expected": [
       "pizza",
@@ -9260,7 +9260,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza carne",
     "expected": [
       "a moda da casa",
@@ -9312,7 +9312,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -9332,7 +9332,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Foi sim, pizza 20 reais somente sabado e dom. Ta aqui no aplicativo..",
     "expected": [
       "pizza",
@@ -9352,7 +9352,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "Sanduíches 15cm",
     "expected": [
       "batata frita",
@@ -9398,7 +9398,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Queria uma pizza de calabresa e 1 água",
     "expected": [
       "pizza",
@@ -9418,7 +9418,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Suco detox",
     "expected": [
       "bebida",
@@ -9432,7 +9432,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Tem sashimi?",
     "expected": [
       "a moda da casa",
@@ -9462,7 +9462,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -9482,7 +9482,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tô querendo uma pizza e u syvo",
     "expected": [
       "pizza",
@@ -9502,7 +9502,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria de pedir uma pizza",
     "expected": [
       "pizza",
@@ -9522,7 +9522,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Boa noite, também vou querer uma porção de batata frita e um adicional de bacon no sanduíche",
     "expected": [
       "batata frita",
@@ -9568,7 +9568,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Duas pizzas de calabresa grande, sem cebola.",
     "expected": [
       "pizza",
@@ -9588,7 +9588,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza pizza de 4 queijos grande e uma pizza de mussarela grande",
     "expected": [
       "pizza",
@@ -9608,7 +9608,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Mais dois x-saladas",
     "expected": [
       "batata frita",
@@ -9654,7 +9654,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quanto é uma pizza doce pequena ?",
     "expected": [
       "pizza",
@@ -9674,7 +9674,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza calabresa",
     "expected": [
       "pizza",
@@ -9694,7 +9694,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Coloque um suco de cupuaçu e remova mais uma pizza de calabresa",
     "expected": [
       "bebida",
@@ -9708,7 +9708,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizzas grandes",
     "expected": [
       "pizza",
@@ -9728,7 +9728,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza Marguerita uma pizza de berinjela",
     "expected": [
       "pizza",
@@ -9748,7 +9748,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de napolitano",
     "expected": [
       "pizza",
@@ -9768,7 +9768,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Qual o preço da pizza de calabresa?",
     "expected": [
       "pizza",
@@ -9788,7 +9788,7 @@
     ]
   },
   {
-    "bussiness": 20,
+    "business": 20,
     "input": "Quero uma pizza Brownie com cobertura de prestígio e napolitano e com confeito de ovomaltine e sucrilhos",
     "expected": [
       "pizza",
@@ -9808,7 +9808,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "@Alessandro disse:<br>quero 2 Sanduba Custom com Sanduba Clandestino e com Adicionais.<br>--",
     "expected": [
       "batata frita",
@@ -9854,7 +9854,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "Quero os 6 x-salada",
     "expected": [
       "batata frita",
@@ -9900,7 +9900,7 @@
     ]
   },
   {
-    "bussiness": 26,
+    "business": 26,
     "input": "Que um Burger Grey",
     "expected": [
       "batata frita",
@@ -9946,7 +9946,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Eu pedi 4 sanduíches mas gostaria de incluir mais um",
     "expected": [
       "batata frita",
@@ -9992,7 +9992,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero um suco",
     "expected": [
       "bebida",
@@ -10006,7 +10006,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "gostaria de 3 american burger",
     "expected": [
       "batata frita",
@@ -10052,7 +10052,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza metade 4 queijos metade camponesa",
     "expected": [
       "pizza",
@@ -10072,7 +10072,7 @@
     ]
   },
   {
-    "bussiness": 23,
+    "business": 23,
     "input": "Sushi mesmo",
     "expected": [
       "a moda da casa",
@@ -10102,7 +10102,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza calabresa pequena",
     "expected": [
       "pizza",
@@ -10122,7 +10122,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Tem x-tudo?",
     "expected": [
       "batata frita",
@@ -10168,7 +10168,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Hoje tem o sanduíche clandestino",
     "expected": [
       "batata frita",
@@ -10214,7 +10214,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quais as opções de pizzas",
     "expected": [
       "pizza",
@@ -10234,7 +10234,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza",
     "expected": [
       "pizza",
@@ -10254,7 +10254,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero pizza grande",
     "expected": [
       "pizza",
@@ -10274,7 +10274,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "O sanduíche da promoção",
     "expected": [
       "batata frita",
@@ -10320,7 +10320,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza pequena de calabresa",
     "expected": [
       "pizza",
@@ -10340,7 +10340,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizzas duas metades",
     "expected": [
       "pizza",
@@ -10360,7 +10360,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de atum Grande",
     "expected": [
       "pizza",
@@ -10380,7 +10380,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Gostaria de saber informações sobre o sanduíche da promoção",
     "expected": [
       "batata frita",
@@ -10426,7 +10426,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -10446,7 +10446,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas grandes metade calabresa e metade mussarela",
     "expected": [
       "pizza",
@@ -10466,7 +10466,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa e uma coca em lata.",
     "expected": [
       "pizza",
@@ -10486,7 +10486,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Me dá uMa pizza 4 queijos e uma pizza Marguerita",
     "expected": [
       "pizza",
@@ -10506,7 +10506,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Refrigerante não",
     "expected": [
       "bebida",
@@ -10520,7 +10520,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "Quero pizza",
     "expected": [
       "pizza",
@@ -10540,7 +10540,7 @@
     ]
   },
   {
-    "bussiness": 20,
+    "business": 20,
     "input": "Mais uma pizza de brownie igual",
     "expected": [
       "pizza",
@@ -10560,7 +10560,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Quero uma pizza metade pistola metade pisa",
     "expected": [
       "pizza",
@@ -10580,7 +10580,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma Coca em lata e uma pizza de atum pequena",
     "expected": [
       "pizza",
@@ -10600,7 +10600,7 @@
     ]
   },
   {
-    "bussiness": 31,
+    "business": 31,
     "input": "Milk shake",
     "expected": [
       "bebida",
@@ -10614,7 +10614,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza de frango com catupiry",
     "expected": [
       "pizza",
@@ -10634,7 +10634,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza metade",
     "expected": [
       "pizza",
@@ -10654,7 +10654,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quais as pizzas grandes?",
     "expected": [
       "pizza",
@@ -10674,7 +10674,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Só pizza mesmo",
     "expected": [
       "pizza",
@@ -10694,7 +10694,7 @@
     ]
   },
   {
-    "bussiness": 42,
+    "business": 42,
     "input": "eu quero sanduíche",
     "expected": [
       "batata frita",
@@ -10740,7 +10740,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Está promoção da pizza ainda esta disponível?",
     "expected": [
       "pizza",
@@ -10760,7 +10760,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "o referencial da minha casa é na rua do novo restaurante bom prato",
     "expected": [
       "a moda da casa",
@@ -10812,7 +10812,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quer uma pizza metade calabresa metade beringela",
     "expected": [
       "pizza",
@@ -10832,14 +10832,14 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem tapioca ?",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma Pizza metade calabresa metade huehueheuehee",
     "expected": [
       "pizza",
@@ -10859,7 +10859,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "pizzas de calabresa grande",
     "expected": [
       "pizza",
@@ -10879,7 +10879,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Refrigerante Coca Cola em lata",
     "expected": [
       "bebida",
@@ -10893,7 +10893,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Você tem pizza sem cebola ?",
     "expected": [
       "pizza",
@@ -10913,7 +10913,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Vcs tem refri?",
     "expected": [
       "bebida",
@@ -10927,7 +10927,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizzas",
     "expected": [
       "pizza",
@@ -10947,7 +10947,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Remover refrigerante",
     "expected": [
       "bebida",
@@ -10961,7 +10961,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "E o sanduíche Supremo? Não tem mais?",
     "expected": [
       "batata frita",
@@ -11007,7 +11007,7 @@
     ]
   },
   {
-    "bussiness": 27,
+    "business": 27,
     "input": "Tem algo com carne?",
     "expected": [
       "a moda da casa",
@@ -11059,7 +11059,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza Toscana pequena",
     "expected": [
       "pizza",
@@ -11079,7 +11079,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza bologna",
     "expected": [
       "pizza",
@@ -11099,7 +11099,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Tem Coca",
     "expected": [
       "bebida",
@@ -11113,7 +11113,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "dois sanduíches matadores",
     "expected": [
       "batata frita",
@@ -11159,7 +11159,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Tem x-salsicha?",
     "expected": [
       "batata frita",
@@ -11205,7 +11205,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero um pizza metade calabresa metade fofinho",
     "expected": [
       "pizza",
@@ -11225,7 +11225,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "me mostra a opção de sanduíche tracidional",
     "expected": [
       "batata frita",
@@ -11271,7 +11271,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Então não tem suco?",
     "expected": [
       "bebida",
@@ -11285,7 +11285,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Távola (Pizza Light)",
     "expected": [
       "pizza",
@@ -11305,7 +11305,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero pizza calabreza",
     "expected": [
       "pizza",
@@ -11325,7 +11325,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -11345,7 +11345,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de mussarela e uma coca em lata.",
     "expected": [
       "pizza",
@@ -11365,7 +11365,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "vem o combo batata, o sanduíche e o refrigerante. Certo?",
     "expected": [
       "batata frita",
@@ -11411,7 +11411,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza doce",
     "expected": [
       "pizza",
@@ -11431,7 +11431,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero um sanduíche de file",
     "expected": [
       "batata frita",
@@ -11477,7 +11477,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "2 pizzas calabresa e água",
     "expected": [
       "pizza",
@@ -11497,7 +11497,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizza de calabresa",
     "expected": [
       "pizza",
@@ -11517,7 +11517,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem algo com carne m",
     "expected": [
       "a moda da casa",
@@ -11569,7 +11569,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza pequena de banana",
     "expected": [
       "pizza",
@@ -11589,7 +11589,7 @@
     ]
   },
   {
-    "bussiness": 43,
+    "business": 43,
     "input": "O que vem neste prato",
     "expected": [
       "a moda da casa",
@@ -11641,7 +11641,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero um pizza de calabresa",
     "expected": [
       "pizza",
@@ -11661,7 +11661,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "olá. quero uma pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -11681,7 +11681,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "@Edleno disse:<br>quero 1 PIZZAS SALGADAS 2 SABORES com SABORES 1/2 12 - PISA e 1/2 13 - PISTOIA.<br>--",
     "expected": [
       "pizza",
@@ -11701,7 +11701,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "O huramaki Califórnia é qual?",
     "expected": [
       "a moda da casa",
@@ -11731,7 +11731,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza metade pistola metade pisa",
     "expected": [
       "pizza",
@@ -11751,7 +11751,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Gostaria de duas pizzas de calabresa grandes",
     "expected": [
       "pizza",
@@ -11771,7 +11771,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Quais os saborear de sushi",
     "expected": [
       "a moda da casa",
@@ -11801,7 +11801,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma. Pizza. De. 4 . Queijos",
     "expected": [
       "pizza",
@@ -11821,7 +11821,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quais são as pizzas",
     "expected": [
       "pizza",
@@ -11841,7 +11841,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Taxa de entrega mais caro que o sanduba",
     "expected": [
       "batata frita",
@@ -11887,7 +11887,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Risotto integral de carne com abóbora",
     "expected": [
       "a moda da casa",
@@ -11939,7 +11939,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Somente 2 pizzas",
     "expected": [
       "pizza",
@@ -11959,7 +11959,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade calabresa metade rei arguir",
     "expected": [
       "pizza",
@@ -11979,7 +11979,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero pizza de claabresa",
     "expected": [
       "pizza",
@@ -11999,7 +11999,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma foguinho",
     "expected": [
       "pizza",
@@ -12019,7 +12019,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Triplo american burger",
     "expected": [
       "batata frita",
@@ -12065,7 +12065,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Não quero refrigerante",
     "expected": [
       "bebida",
@@ -12079,7 +12079,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Sim. Quero tirar a pizza pequena",
     "expected": [
       "pizza",
@@ -12099,7 +12099,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Promoção duas pizzas por 40,00",
     "expected": [
       "pizza",
@@ -12119,7 +12119,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "gostaria de uma pizza grande metade calabresa metade 4 queijos",
     "expected": [
       "pizza",
@@ -12139,7 +12139,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade calabresa metade frango com catupiry",
     "expected": [
       "pizza",
@@ -12159,7 +12159,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 2 pizzas salgadas o calabresa e água",
     "expected": [
       "pizza",
@@ -12179,7 +12179,7 @@
     ]
   },
   {
-    "bussiness": 40,
+    "business": 40,
     "input": "sanduíches",
     "expected": [
       "batata frita",
@@ -12225,7 +12225,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "me da uma pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -12245,7 +12245,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero 2 pizzas de calabresa grande",
     "expected": [
       "pizza",
@@ -12265,7 +12265,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Sanduba custom",
     "expected": [
       "batata frita",
@@ -12311,7 +12311,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Pode ser uma Coca cola no lugar da scheps e um pastel de pizza?",
     "expected": [
       "batata frita",
@@ -12357,7 +12357,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma Fanta em lata e uma pizza de calabresa grande também",
     "expected": [
       "pizza",
@@ -12377,7 +12377,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza igual a a dessa foto",
     "expected": [
       "pizza",
@@ -12397,7 +12397,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza e um suco",
     "expected": [
       "bebida",
@@ -12411,7 +12411,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A pizza de portuguesa grande ainda está de 27,90",
     "expected": [
       "pizza",
@@ -12431,7 +12431,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "tem alguma pizza com atum",
     "expected": [
       "pizza",
@@ -12451,14 +12451,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Tapioca dem manteiga por favor",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "3 wtf burger",
     "expected": [
       "batata frita",
@@ -12504,7 +12504,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma de mussarela",
     "expected": [
       "pizza",
@@ -12524,7 +12524,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero um suco que não seja de limão",
     "expected": [
       "bebida",
@@ -12538,7 +12538,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria de pedir uma pizza na promoção de 20 reais",
     "expected": [
       "pizza",
@@ -12558,7 +12558,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza metade 4 queijos metade peperone",
     "expected": [
       "pizza",
@@ -12578,7 +12578,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "WTF Burger",
     "expected": [
       "batata frita",
@@ -12624,7 +12624,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Eu disse SUCO",
     "expected": [
       "bebida",
@@ -12638,7 +12638,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Outra pizza calabresa",
     "expected": [
       "pizza",
@@ -12658,7 +12658,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Boa noite, quando custa uma pizza joguinho mais uma pizza Margarita?",
     "expected": [
       "pizza",
@@ -12678,7 +12678,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "olá. quero uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -12698,7 +12698,7 @@
     ]
   },
   {
-    "bussiness": 40,
+    "business": 40,
     "input": "Pizza calabresa",
     "expected": [
       "pizza",
@@ -12718,7 +12718,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quanto é a pizza pequena doce ?",
     "expected": [
       "pizza",
@@ -12738,7 +12738,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Ola boa noite. A promocao pizza pro 20 esta valendo para hoje ainda?",
     "expected": [
       "pizza",
@@ -12758,7 +12758,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero uma pizza metade presunto metade calabresa",
     "expected": [
       "pizza",
@@ -12778,7 +12778,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá uma pizza metade calabresa metade mussarela",
     "expected": [
       "pizza",
@@ -12798,7 +12798,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tô perguntando sobre o tipo de pizza",
     "expected": [
       "pizza",
@@ -12818,7 +12818,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza dois sabores",
     "expected": [
       "pizza",
@@ -12838,7 +12838,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza e uma coca",
     "expected": [
       "pizza",
@@ -12858,7 +12858,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "2 pizzas calabresa e 1 água",
     "expected": [
       "pizza",
@@ -12878,7 +12878,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Que uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -12898,7 +12898,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza metade calabresa metade atum",
     "expected": [
       "pizza",
@@ -12918,7 +12918,7 @@
     ]
   },
   {
-    "bussiness": 40,
+    "business": 40,
     "input": "X- tudo",
     "expected": [
       "batata frita",
@@ -12964,7 +12964,7 @@
     ]
   },
   {
-    "bussiness": 15,
+    "business": 15,
     "input": "Burges",
     "expected": [
       "batata frita",
@@ -13010,7 +13010,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tem suco de que?",
     "expected": [
       "bebida",
@@ -13024,7 +13024,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza portuguesa",
     "expected": [
       "pizza",
@@ -13044,7 +13044,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Porém gostaria de fazer uma reclamação, houve erro nos sanduíches, ficou faltando um refri é o motobou ficou obrigado a tirar de outro pedido, e muita demora. Resumindo falta de organização por parte do lanche",
     "expected": [
       "batata frita",
@@ -13090,7 +13090,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza pequena salgada dois sabores",
     "expected": [
       "pizza",
@@ -13110,7 +13110,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Refrigerante em lat",
     "expected": [
       "bebida",
@@ -13124,7 +13124,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza 4 queijos e outra Marguerita grandes",
     "expected": [
       "pizza",
@@ -13144,7 +13144,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Qual o preço da pizza grande metade margarita metade portuguesa",
     "expected": [
       "pizza",
@@ -13164,7 +13164,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizzas metades",
     "expected": [
       "pizza",
@@ -13184,7 +13184,7 @@
     ]
   },
   {
-    "bussiness": 15,
+    "business": 15,
     "input": "Yakisoba de frango",
     "expected": [
       "a moda da casa",
@@ -13214,7 +13214,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Os sandubas",
     "expected": [
       "batata frita",
@@ -13260,7 +13260,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Apenas 2 pizzas. 1 de cada sabor. 🙏🏽",
     "expected": [
       "pizza",
@@ -13280,7 +13280,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "pizza grande",
     "expected": [
       "pizza",
@@ -13300,7 +13300,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "quero burguer",
     "expected": [
       "batata frita",
@@ -13346,7 +13346,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza metade pistola metade pisa",
     "expected": [
       "pizza",
@@ -13366,7 +13366,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "acrescentar suco detox",
     "expected": [
       "bebida",
@@ -13380,7 +13380,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza de muçarela",
     "expected": [
       "pizza",
@@ -13400,14 +13400,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "tapioca com castanha",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Street burger",
     "expected": [
       "batata frita",
@@ -13453,7 +13453,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero um sanduiche de bacon por favor",
     "expected": [
       "batata frita",
@@ -13499,7 +13499,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Duas pizzas calabresa grande",
     "expected": [
       "pizza",
@@ -13519,7 +13519,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá um suco de acerola",
     "expected": [
       "bebida",
@@ -13533,7 +13533,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza grande de calabresa",
     "expected": [
       "pizza",
@@ -13553,7 +13553,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "adicionar 3 american burger",
     "expected": [
       "batata frita",
@@ -13599,7 +13599,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Uma pizza de 4 queijos grande e uma pizza de mussarela grande",
     "expected": [
       "pizza",
@@ -13619,7 +13619,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de calabresa e uma marguerita",
     "expected": [
       "pizza",
@@ -13639,7 +13639,7 @@
     ]
   },
   {
-    "bussiness": 43,
+    "business": 43,
     "input": "Ok não esquece do refrigerante em lata pois da última vez não veio!",
     "expected": [
       "bebida",
@@ -13653,7 +13653,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "pizza brownie",
     "expected": [
       "pizza",
@@ -13673,7 +13673,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de calabresa sem calabresa",
     "expected": [
       "pizza",
@@ -13693,7 +13693,7 @@
     ]
   },
   {
-    "bussiness": 15,
+    "business": 15,
     "input": "Vocês vendem peixe?",
     "expected": [
       "a moda da casa",
@@ -13745,7 +13745,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "PIZZA GRANDE MEIA CALABREZA E MEIA MUSSARELA",
     "expected": [
       "pizza",
@@ -13765,7 +13765,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "como eu tiro a pizza?",
     "expected": [
       "pizza",
@@ -13785,7 +13785,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Sanduíche de cola a",
     "expected": [
       "batata frita",
@@ -13831,7 +13831,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza metade calabresa metade 4 queijis",
     "expected": [
       "pizza",
@@ -13851,7 +13851,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza metade calabresa metade berinjela",
     "expected": [
       "pizza",
@@ -13871,7 +13871,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza 4 Queijos grande e uma de mussarela",
     "expected": [
       "pizza",
@@ -13891,7 +13891,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza na promocao de 20 reais",
     "expected": [
       "pizza",
@@ -13911,7 +13911,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza 4 queijos e uma pizza Marguerita",
     "expected": [
       "pizza",
@@ -13931,7 +13931,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "suco",
     "expected": [
       "bebida",
@@ -13945,7 +13945,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Vou querer 2 pizzas de calabresa e 2 sucos de laranja",
     "expected": [
       "bebida",
@@ -13959,7 +13959,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "eu quero pizza",
     "expected": [
       "pizza",
@@ -13979,7 +13979,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Sanduba",
     "expected": [
       "batata frita",
@@ -14025,7 +14025,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero duas pizzas grande de calabresa e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -14045,7 +14045,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Dois sanduíches matadores",
     "expected": [
       "batata frita",
@@ -14091,7 +14091,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Remover pizza",
     "expected": [
       "pizza",
@@ -14111,7 +14111,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "queria uma pizza grande",
     "expected": [
       "pizza",
@@ -14131,7 +14131,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me da uma pizza de 4 queijos grande",
     "expected": [
       "pizza",
@@ -14151,7 +14151,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Carne",
     "expected": [
       "a moda da casa",
@@ -14203,7 +14203,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Fui informado pelo Daniel Goettnauer sobre uma promoção de pizza",
     "expected": [
       "pizza",
@@ -14223,7 +14223,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de calabresa e uma coca em lata",
     "expected": [
       "pizza",
@@ -14243,7 +14243,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero pizza duas metades",
     "expected": [
       "pizza",
@@ -14263,7 +14263,7 @@
     ]
   },
   {
-    "bussiness": 30,
+    "business": 30,
     "input": "Refrigerador",
     "expected": [
       "bebida",
@@ -14277,7 +14277,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza savona",
     "expected": [
       "pizza",
@@ -14297,7 +14297,7 @@
     ]
   },
   {
-    "bussiness": 40,
+    "business": 40,
     "input": "Abburguer",
     "expected": [
       "batata frita",
@@ -14343,7 +14343,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Queijo na pizza",
     "expected": [
       "pizza",
@@ -14363,7 +14363,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "carne",
     "expected": [
       "a moda da casa",
@@ -14415,14 +14415,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "eu queria uma tapioca de Castanha e queijo",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "terminou os sanduíche?",
     "expected": [
       "batata frita",
@@ -14468,7 +14468,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza gostosa",
     "expected": [
       "pizza",
@@ -14488,7 +14488,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "esse suco é de quantas ml?",
     "expected": [
       "bebida",
@@ -14502,7 +14502,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "1 pizza Portuguesa<br>1 pizza Atum (com queijo).",
     "expected": [
       "pizza",
@@ -14522,7 +14522,7 @@
     ]
   },
   {
-    "bussiness": 53,
+    "business": 53,
     "input": "Combo 3: 3 Matadores de Fome + Refrigerante 2L",
     "expected": [
       "bebida",
@@ -14536,7 +14536,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Onde pizza",
     "expected": [
       "pizza",
@@ -14556,7 +14556,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizzade calabresa",
     "expected": [
       "pizza",
@@ -14576,14 +14576,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "quero uma tapioca com tucumã",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza doces metade chocolate",
     "expected": [
       "pizza",
@@ -14603,7 +14603,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "essa loja abre hoje eu quero comer esse sanduíche de r$ 10 gente eu tô morrendo de fome tô salivando neném fome e salivando sanduíche",
     "expected": [
       "batata frita",
@@ -14649,7 +14649,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quais sabores de pizza têm?",
     "expected": [
       "pizza",
@@ -14669,7 +14669,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá um suco de laranja",
     "expected": [
       "bebida",
@@ -14683,7 +14683,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande portuguesa, com Coca-Cola.",
     "expected": [
       "pizza",
@@ -14703,7 +14703,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Manda a pizza pequena",
     "expected": [
       "pizza",
@@ -14723,7 +14723,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero adicionar um milkshake",
     "expected": [
       "bebida",
@@ -14737,7 +14737,7 @@
     ]
   },
   {
-    "bussiness": 43,
+    "business": 43,
     "input": "Quero carne",
     "expected": [
       "a moda da casa",
@@ -14789,7 +14789,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza e sanduíche",
     "expected": [
       "batata frita",
@@ -14835,7 +14835,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quais são as pizzas salgadas grandes?",
     "expected": [
       "pizza",
@@ -14855,7 +14855,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas de calabresa e uma agua",
     "expected": [
       "pizza",
@@ -14875,7 +14875,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza doce pequena de banana",
     "expected": [
       "pizza",
@@ -14895,7 +14895,7 @@
     ]
   },
   {
-    "bussiness": 20,
+    "business": 20,
     "input": "quero uma tacopizza tradicional de pepperoni",
     "expected": [
       "pizza",
@@ -14915,7 +14915,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza de pepeeone e uma pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -14935,7 +14935,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos, uma pizza de calabresa e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -14955,7 +14955,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A promoção das 2 pizzas portuguesa ainda está 55,80?",
     "expected": [
       "pizza",
@@ -14975,7 +14975,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de 4 queijos e uma pizza Marguerita",
     "expected": [
       "pizza",
@@ -14995,7 +14995,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza grande e um suco de laranja",
     "expected": [
       "bebida",
@@ -15009,7 +15009,7 @@
     ]
   },
   {
-    "bussiness": 23,
+    "business": 23,
     "input": "O sushi mesmo :)",
     "expected": [
       "a moda da casa",
@@ -15039,7 +15039,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "tem pizza de frango",
     "expected": [
       "pizza",
@@ -15059,7 +15059,7 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Sushi",
     "expected": [
       "a moda da casa",
@@ -15089,7 +15089,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "1 pizza calebresa",
     "expected": [
       "pizza",
@@ -15109,7 +15109,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "WTF burger",
     "expected": [
       "batata frita",
@@ -15155,7 +15155,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Quero 1 suco de morango",
     "expected": [
       "bebida",
@@ -15169,7 +15169,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quais sanduiches de frango vcs tem?",
     "expected": [
       "batata frita",
@@ -15215,7 +15215,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quanto tá as pizzas?",
     "expected": [
       "pizza",
@@ -15235,7 +15235,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "A pizza de portuguesa grande ainda está de 27,90 ??<br>--",
     "expected": [
       "pizza",
@@ -15255,7 +15255,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero um x-salda",
     "expected": [
       "batata frita",
@@ -15301,7 +15301,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos e uma coca de 2 litros",
     "expected": [
       "pizza",
@@ -15321,7 +15321,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero pizza metade calabresa metade 4 queijos",
     "expected": [
       "pizza",
@@ -15341,7 +15341,7 @@
     ]
   },
   {
-    "bussiness": 27,
+    "business": 27,
     "input": "Quero um burgur",
     "expected": [
       "batata frita",
@@ -15387,7 +15387,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de frango",
     "expected": [
       "pizza",
@@ -15407,7 +15407,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Dois x-tudos",
     "expected": [
       "batata frita",
@@ -15453,14 +15453,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "tapioca de banana e queijo",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza com dois sabores diferentes",
     "expected": [
       "pizza",
@@ -15480,7 +15480,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero suco \nDe\nAcerola",
     "expected": [
       "bebida",
@@ -15494,7 +15494,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "quero uma pizza speciali de calabresa",
     "expected": [
       "pizza",
@@ -15514,7 +15514,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Oi gostaria de fazer um pedido de 2 pizzas grandes de calabresa",
     "expected": [
       "pizza",
@@ -15534,7 +15534,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza de atum grande e uma dialética",
     "expected": [
       "pizza",
@@ -15554,7 +15554,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "tem pizza de chocolate?",
     "expected": [
       "pizza",
@@ -15574,7 +15574,7 @@
     ]
   },
   {
-    "bussiness": 44,
+    "business": 44,
     "input": "Todos os filés de peixe",
     "expected": [
       "a moda da casa",
@@ -15626,7 +15626,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Uma pizza metade 4 queijos metade peperone",
     "expected": [
       "pizza",
@@ -15646,7 +15646,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza muçarela com chocolate",
     "expected": [
       "pizza",
@@ -15666,7 +15666,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma coca de 2 litros e uma pizza grande de calabresa",
     "expected": [
       "pizza",
@@ -15686,7 +15686,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Queria uma pizza de calabresa e uma coca de 1 litro",
     "expected": [
       "pizza",
@@ -15706,7 +15706,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Coca de 2 litros",
     "expected": [
       "bebida",
@@ -15720,14 +15720,14 @@
     ]
   },
   {
-    "bussiness": 57,
+    "business": 57,
     "input": "Nossa pisou quero uma tapioca de queijo com Banana",
     "expected": [
       "tapiocas"
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "A pizza é grande ??",
     "expected": [
       "pizza",
@@ -15747,7 +15747,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero 1 🍕 pizzas grande duas metades.",
     "expected": [
       "pizza",
@@ -15767,7 +15767,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "colocar suco detox",
     "expected": [
       "bebida",
@@ -15781,7 +15781,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Gostaria de um sanduba wolfinho",
     "expected": [
       "batata frita",
@@ -15827,7 +15827,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza metade camponesa metade calabresa",
     "expected": [
       "pizza",
@@ -15847,7 +15847,7 @@
     ]
   },
   {
-    "bussiness": 27,
+    "business": 27,
     "input": "O refrigerante é coca ou pepsi",
     "expected": [
       "bebida",
@@ -15861,7 +15861,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza de calabresa grande",
     "expected": [
       "pizza",
@@ -15881,7 +15881,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de tomate seco",
     "expected": [
       "pizza",
@@ -15901,7 +15901,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "suco suco de laranja",
     "expected": [
       "bebida",
@@ -15915,7 +15915,7 @@
     ]
   },
   {
-    "bussiness": 67,
+    "business": 67,
     "input": "Qual o burguer mais barato",
     "expected": [
       "batata frita",
@@ -15961,7 +15961,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza. Mais barata",
     "expected": [
       "pizza",
@@ -15981,7 +15981,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza de atum",
     "expected": [
       "pizza",
@@ -16001,7 +16001,7 @@
     ]
   },
   {
-    "bussiness": 39,
+    "business": 39,
     "input": "Sobre os sushis, quantos veem no pedido?",
     "expected": [
       "a moda da casa",
@@ -16031,7 +16031,7 @@
     ]
   },
   {
-    "bussiness": 7,
+    "business": 7,
     "input": "quero uma porção de carne de sol",
     "expected": [
       "a moda da casa",
@@ -16083,7 +16083,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Por favor tirar o picles do sanduíche",
     "expected": [
       "batata frita",
@@ -16129,7 +16129,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "2 pizzas de calabresa",
     "expected": [
       "pizza",
@@ -16149,7 +16149,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Acrescentar um suco de laranja",
     "expected": [
       "bebida",
@@ -16163,7 +16163,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "Quantos sushi?",
     "expected": [
       "a moda da casa",
@@ -16193,7 +16193,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Vou querer 2 pizzas de calabresa e 2 coca cola em lata",
     "expected": [
       "pizza",
@@ -16213,7 +16213,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Me dá uma pizza metade mussarela metade calabresa",
     "expected": [
       "pizza",
@@ -16233,7 +16233,7 @@
     ]
   },
   {
-    "bussiness": 25,
+    "business": 25,
     "input": "quero um sushi",
     "expected": [
       "a moda da casa",
@@ -16263,7 +16263,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza grande calabresa e a outra metade marguerita é metade camponesa.",
     "expected": [
       "pizza",
@@ -16283,7 +16283,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "3 sanduíches cladestinos",
     "expected": [
       "batata frita",
@@ -16329,7 +16329,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Quero um Australian Burguer",
     "expected": [
       "batata frita",
@@ -16375,7 +16375,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Refrigerante",
     "expected": [
       "bebida",
@@ -16389,7 +16389,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pode ser dois sabores na mesma pizza?",
     "expected": [
       "pizza",
@@ -16409,7 +16409,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "@deploy hfix-hl31",
     "expected": [
       "batata frita",
@@ -16455,7 +16455,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza de calabresa e quatro queijo",
     "expected": [
       "pizza",
@@ -16475,7 +16475,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza metade calabresa metade mussarela",
     "expected": [
       "pizza",
@@ -16495,7 +16495,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me da uma pizza de 4 queijos",
     "expected": [
       "pizza",
@@ -16515,7 +16515,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza e suvo",
     "expected": [
       "pizza",
@@ -16535,7 +16535,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero duas pizzas metade calabresa metade atum",
     "expected": [
       "pizza",
@@ -16555,7 +16555,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Quero uma pizza",
     "expected": [
       "pizza",
@@ -16575,7 +16575,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "01 Pizza grande Roma",
     "expected": [
       "pizza",
@@ -16595,7 +16595,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "T pizza sem queijo ?",
     "expected": [
       "pizza",
@@ -16615,7 +16615,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Adicionar Queijo na Pizza de Atum",
     "expected": [
       "pizza",
@@ -16635,7 +16635,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quais as pizzas de 27.90",
     "expected": [
       "pizza",
@@ -16655,7 +16655,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quer uma pizza metade calabresa metade foguinho",
     "expected": [
       "pizza",
@@ -16675,7 +16675,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza de calabresa Grande",
     "expected": [
       "pizza",
@@ -16695,7 +16695,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza moderna",
     "expected": [
       "pizza",
@@ -16715,7 +16715,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "@Dara disse:<br>quero 1 🍕 pizzas grande duas metades.",
     "expected": [
       "pizza",
@@ -16735,7 +16735,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Me dá uma pizza",
     "expected": [
       "pizza",
@@ -16755,7 +16755,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "bebidas barats",
     "expected": [
       "bebida",
@@ -16769,7 +16769,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza camarão",
     "expected": [
       "pizza",
@@ -16789,7 +16789,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quais são as pizzas da promoção?",
     "expected": [
       "pizza",
@@ -16809,7 +16809,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria cancelar 1 pizza calabresa",
     "expected": [
       "pizza",
@@ -16829,7 +16829,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza de 4 Queijos grande e uma de mussarela",
     "expected": [
       "pizza",
@@ -16849,7 +16849,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "Quero um suco de morango",
     "expected": [
       "bebida",
@@ -16863,7 +16863,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "me dá uma pizza de atum grande e uma de calabresa Grande",
     "expected": [
       "pizza",
@@ -16883,7 +16883,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza camponesa grande e uma pizza Marguerite grande",
     "expected": [
       "pizza",
@@ -16903,7 +16903,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizza 4 queijos",
     "expected": [
       "pizza",
@@ -16923,7 +16923,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "posso pedir uma pizza com dois sabores",
     "expected": [
       "pizza",
@@ -16943,7 +16943,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza duas metades",
     "expected": [
       "pizza",
@@ -16963,7 +16963,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma coca em lata e uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -16983,7 +16983,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "1 pizza grande muzzarela",
     "expected": [
       "pizza",
@@ -17003,7 +17003,7 @@
     ]
   },
   {
-    "bussiness": 12,
+    "business": 12,
     "input": "suco de abacaxi",
     "expected": [
       "bebida",
@@ -17017,7 +17017,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero uma pizza 4 queijos e outras de Marguerita",
     "expected": [
       "pizza",
@@ -17037,7 +17037,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "pizza salgada dois sabores",
     "expected": [
       "pizza",
@@ -17057,7 +17057,7 @@
     ]
   },
   {
-    "bussiness": 63,
+    "business": 63,
     "input": "Quero um stress Burger EUA",
     "expected": [
       "batata frita",
@@ -17103,7 +17103,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "quero uma pizza metade calabresa metade berinjela",
     "expected": [
       "pizza",
@@ -17123,7 +17123,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 3 pizzas de calabresa e uma coca-cola",
     "expected": [
       "pizza",
@@ -17143,7 +17143,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Tira uma pizza",
     "expected": [
       "pizza",
@@ -17163,7 +17163,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Pizza de calabresa com queijo",
     "expected": [
       "pizza",
@@ -17183,7 +17183,7 @@
     ]
   },
   {
-    "bussiness": 54,
+    "business": 54,
     "input": "quero uma pizza de calabresa",
     "expected": [
       "pizza",
@@ -17203,7 +17203,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "tem pizza grande",
     "expected": [
       "pizza",
@@ -17223,7 +17223,7 @@
     ]
   },
   {
-    "bussiness": 30,
+    "business": 30,
     "input": "SANDUICHE",
     "expected": [
       "batata frita",
@@ -17269,7 +17269,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero 2 pizzas de calabresa e uma água",
     "expected": [
       "pizza",
@@ -17289,7 +17289,7 @@
     ]
   },
   {
-    "bussiness": 38,
+    "business": 38,
     "input": "Prato picanha",
     "expected": [
       "a moda da casa",
@@ -17341,7 +17341,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Quero duas pizzas grandes",
     "expected": [
       "pizza",
@@ -17361,7 +17361,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Pizzas salgadas grandes",
     "expected": [
       "pizza",
@@ -17381,7 +17381,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "quero uma pizza e um suco",
     "expected": [
       "bebida",
@@ -17395,7 +17395,7 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero uma pizza de 4 queijos e outra de calabresa",
     "expected": [
       "pizza",
@@ -17415,7 +17415,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Gostaria de dois sanduíches",
     "expected": [
       "batata frita",
@@ -17461,7 +17461,7 @@
     ]
   },
   {
-    "bussiness": 2,
+    "business": 2,
     "input": "Gostaria que adicionasse mussarela na pizza de calabresa",
     "expected": [
       "pizza",
@@ -17481,7 +17481,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Hamburger de filet com queijo",
     "expected": [
       "batata frita",
@@ -17527,7 +17527,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Tem algo com carne",
     "expected": [
       "a moda da casa",
@@ -17579,7 +17579,7 @@
     ]
   },
   {
-    "bussiness": 9,
+    "business": 9,
     "input": "Shakes",
     "expected": [
       "bebida",
@@ -17593,9 +17593,13 @@
     ]
   },
   {
-    "bussiness": 3,
+    "business": 3,
     "input": "Quero duas pizzas de calabresa e suco",
     "expected": [
+      "pizza",
+      "pizzas",
+      "massa",
+      "massas",
       "bebida",
       "bebidas",
       "milk shakes",
@@ -17607,7 +17611,7 @@
     ]
   },
   {
-    "bussiness": 55,
+    "business": 55,
     "input": "Pizza Toscana",
     "expected": [
       "pizza",
@@ -17627,7 +17631,7 @@
     ]
   },
   {
-    "bussiness": 59,
+    "business": 59,
     "input": "Burguer",
     "expected": [
       "batata frita",
@@ -17673,7 +17677,7 @@
     ]
   },
   {
-    "bussiness": 10,
+    "business": 10,
     "input": "Tem sanduíches",
     "expected": [
       "batata frita",

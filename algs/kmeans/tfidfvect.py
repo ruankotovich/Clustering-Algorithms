@@ -8,8 +8,9 @@ import pandas as pd
 import string
 import unicodedata
 import re
+import sys
 
-start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
+start_number = re.compile(r"\d+", re.IGNORECASE)
 
 
 def normalizer(y):
@@ -34,7 +35,7 @@ documents = read('../bases/lilprobase.csv')
 vectorizer = TfidfVectorizer(stop_words=stopwords.words('portuguese'))
 X = vectorizer.fit_transform(documents['feature_vector'].tolist())
 
-true_k = 100
+true_k = int(sys.argv[1])
 model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
 model.fit(X)
 

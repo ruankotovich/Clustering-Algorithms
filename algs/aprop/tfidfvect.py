@@ -12,7 +12,7 @@ import string
 import unicodedata
 import re
 
-start_number = re.compile(r"^ *\d+ *", re.IGNORECASE)
+start_number = re.compile(r"\d+", re.IGNORECASE)
 
 def normalizer(y):
     table = str.maketrans('','',string.punctuation)
