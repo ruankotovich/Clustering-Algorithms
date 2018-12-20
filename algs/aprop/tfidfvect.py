@@ -11,6 +11,7 @@ import pandas as pd
 import string
 import unicodedata
 import re
+import sys
 
 start_number = re.compile(r"\d+", re.IGNORECASE)
 
@@ -21,7 +22,6 @@ def normalizer(y):
 def number_removal(y):
     return start_number.sub('', y)
 
-
 def read(file):
     df = pd.read_csv(file)
     df['id'] = df.index
@@ -30,7 +30,7 @@ def read(file):
     df['feature_vector'] = df['groname'].apply(normalizer).apply(number_removal) + ' ' + df['proname'].apply(normalizer).apply(number_removal)
     return df
 
-documents = read('../bases/lilprobase.csv')
+documents = read(sys.argv[1])
 
 vectorizer = TfidfVectorizer(stop_words=stopwords.words('portuguese'))
 X = vectorizer.fit_transform(documents['feature_vector'].tolist())
@@ -43,7 +43,7 @@ print ('Clusters %d' % len(cluster_centers_indices))
 print("\n")
 
 documents["group"] = labels
-file = open('knowledgebase.cpp_part','w')
+file = open(sys.argv[2]+'.cpp_part','w')
 
 cur = {'group': -1, 'groupPieceName': [], 'clusterName': '',
        'tagName': '', 'productPieceName': []}
@@ -75,16 +75,3 @@ for i, doc in documents.sort_values('group').T.iteritems():
         cur['productPieceName'] += [doc['proname']]
 
 file.close()
-
-print("Prediction")
-
-Y = vectorizer.transform(["fanta maracujá"])
-prediction = af.predict(Y)
-print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["group"] == prediction[0]])
-
-
-Y = vectorizer.transform(["pizza de beringela"])
-prediction = af.predict(Y)
-print(documents.iloc[cluster_centers_indices[prediction[0]]]['groname'])
-print(documents[documents["group"] == prediction[0]])

@@ -88,23 +88,3 @@ for i, doc in documents.sort_values('group').T.iteritems():
         cur['productPieceName'] += [doc['proname']]
 
 file.close()
-
-order_centroids = model.cluster_centers_.argsort()[:, ::-1]
-terms = vectorizer.get_feature_names()
-featuredterm = {}
-for i in range(true_k):
-    # print("Cluster %d:" % i),
-    for ind in order_centroids[i, :1]:
-        featuredterm[i] = terms[ind]
-    print
-
-print("\n")
-print("Prediction")
-
-Y = vectorizer.transform(["fanta laranja"])
-prediction = model.predict(Y)
-print(featuredterm[prediction[0]], ' ', prediction[0])
-
-Y = vectorizer.transform(["pizza de beringela"])
-prediction = model.predict(Y)
-print(featuredterm[prediction[0]], ' ', prediction[0])
